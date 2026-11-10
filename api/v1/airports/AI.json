@@ -1,0 +1,32 @@
+{
+  "generatedFrom": "https://davidmegginson.github.io/ourairports-data/airports.csv",
+  "count": 2,
+  "records": [
+    {
+      "ident": "AI-0001",
+      "iata": null,
+      "icao": null,
+      "name": "Scrub Island Airfield",
+      "type": "closed",
+      "lat": 18.28812,
+      "lon": -62.945352,
+      "elevation": null,
+      "country": "AI",
+      "municipality": "Scrub Island",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "TQPF",
+      "iata": "AXA",
+      "icao": "TQPF",
+      "name": "Clayton J. Lloyd International Airport",
+      "type": "medium_airport",
+      "lat": 18.204773,
+      "lon": -63.05383,
+      "elevation": 127,
+      "country": "AI",
+      "municipality": "The Valley",
+      "scheduledService": "yes"
+    }
+  ]
+}

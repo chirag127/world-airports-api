@@ -1,0 +1,71 @@
+{
+  "generatedFrom": "https://davidmegginson.github.io/ourairports-data/airports.csv",
+  "count": 5,
+  "records": [
+    {
+      "ident": "NSAU",
+      "iata": "AAU",
+      "icao": "NSAU",
+      "name": "Asau Airport",
+      "type": "small_airport",
+      "lat": -13.505132,
+      "lon": -172.627888,
+      "elevation": null,
+      "country": "WS",
+      "municipality": "Asau",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "NSFA",
+      "iata": "APW",
+      "icao": "NSFA",
+      "name": "Faleolo International Airport",
+      "type": "large_airport",
+      "lat": -13.83,
+      "lon": -172.007996,
+      "elevation": 58,
+      "country": "WS",
+      "municipality": "Apia",
+      "scheduledService": "yes"
+    },
+    {
+      "ident": "NSFI",
+      "iata": "FGI",
+      "icao": "NSFI",
+      "name": "Fagali'i Airport",
+      "type": "small_airport",
+      "lat": -13.849167,
+      "lon": -171.739866,
+      "elevation": 131,
+      "country": "WS",
+      "municipality": "Apia",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "NSMA",
+      "iata": "MXS",
+      "icao": "NSMA",
+      "name": "Maota Airport",
+      "type": "small_airport",
+      "lat": -13.7423,
+      "lon": -172.257996,
+      "elevation": null,
+      "country": "WS",
+      "municipality": "Maota",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "WS-0001",
+      "iata": null,
+      "icao": null,
+      "name": "Lalomalava Airport",
+      "type": "closed",
+      "lat": -14.031827,
+      "lon": -171.435114,
+      "elevation": null,
+      "country": "WS",
+      "municipality": "Lalomalava",
+      "scheduledService": "no"
+    }
+  ]
+}

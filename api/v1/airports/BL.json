@@ -1,0 +1,19 @@
+{
+  "generatedFrom": "https://davidmegginson.github.io/ourairports-data/airports.csv",
+  "count": 1,
+  "records": [
+    {
+      "ident": "TFFJ",
+      "iata": "SBH",
+      "icao": "TFFJ",
+      "name": "St. Jean Airport",
+      "type": "medium_airport",
+      "lat": 17.904398,
+      "lon": -62.843333,
+      "elevation": 49,
+      "country": "BL",
+      "municipality": "Gustavia",
+      "scheduledService": "yes"
+    }
+  ]
+}

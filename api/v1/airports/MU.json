@@ -1,0 +1,110 @@
+{
+  "generatedFrom": "https://davidmegginson.github.io/ourairports-data/airports.csv",
+  "count": 8,
+  "records": [
+    {
+      "ident": "FIMP",
+      "iata": "MRU",
+      "icao": "FIMP",
+      "name": "Sir Seewoosagur Ramgoolam International Airport",
+      "type": "large_airport",
+      "lat": -20.430201,
+      "lon": 57.683601,
+      "elevation": 186,
+      "country": "MU",
+      "municipality": "Plaine Magnien",
+      "scheduledService": "yes"
+    },
+    {
+      "ident": "FIMR",
+      "iata": "RRG",
+      "icao": "FIMR",
+      "name": "Sir Charles Gaetan Duval Airport",
+      "type": "medium_airport",
+      "lat": -19.757668,
+      "lon": 63.36103,
+      "elevation": 95,
+      "country": "MU",
+      "municipality": "Port Mathurin",
+      "scheduledService": "yes"
+    },
+    {
+      "ident": "MU-0001",
+      "iata": "AHG",
+      "icao": null,
+      "name": "Agalega Island Airstrip",
+      "type": "small_airport",
+      "lat": -10.3731,
+      "lon": 56.609798,
+      "elevation": 4,
+      "country": "MU",
+      "municipality": "Vingt Cinq",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "MU-0002",
+      "iata": null,
+      "icao": null,
+      "name": "Skydive Austral Airstrip",
+      "type": "small_airport",
+      "lat": -20.123793,
+      "lon": 57.681656,
+      "elevation": null,
+      "country": "MU",
+      "municipality": "Belle Vue Maurel",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "MU-0003",
+      "iata": null,
+      "icao": null,
+      "name": "Sir Seewoosagur Ramgoolam National Hospital Helipad",
+      "type": "heliport",
+      "lat": -20.097715,
+      "lon": 57.558786,
+      "elevation": 183,
+      "country": "MU",
+      "municipality": "Port Louis",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "MU-0004",
+      "iata": null,
+      "icao": null,
+      "name": "IAF Agalega",
+      "type": "medium_airport",
+      "lat": -10.372483,
+      "lon": 56.603537,
+      "elevation": null,
+      "country": "MU",
+      "municipality": "Vingt Cinq",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "MU-0005",
+      "iata": null,
+      "icao": null,
+      "name": "LUX Grand Gaube seaplane base",
+      "type": "seaplane_base",
+      "lat": -20.003047,
+      "lon": 57.661781,
+      "elevation": null,
+      "country": "MU",
+      "municipality": "Grand Gaube",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "MU-0006",
+      "iata": null,
+      "icao": null,
+      "name": "Shanti Meurice Helipad",
+      "type": "heliport",
+      "lat": -20.514927,
+      "lon": 57.471637,
+      "elevation": null,
+      "country": "MU",
+      "municipality": "Riambel",
+      "scheduledService": "no"
+    }
+  ]
+}

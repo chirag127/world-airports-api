@@ -1,0 +1,19 @@
+{
+  "generatedFrom": "https://davidmegginson.github.io/ourairports-data/airports.csv",
+  "count": 1,
+  "records": [
+    {
+      "ident": "GBYD",
+      "iata": "BJL",
+      "icao": "GBYD",
+      "name": "Banjul International Airport",
+      "type": "large_airport",
+      "lat": 13.338,
+      "lon": -16.652201,
+      "elevation": 95,
+      "country": "GM",
+      "municipality": "Banjul (Yundum)",
+      "scheduledService": "yes"
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+openapi: 3.1.0
+info:
+  title: World Airports API
+  version: 1.0.0
+  description: >-
+    All 86,350 airports from the OurAirports database across 247 countries, served as
+    free static JSON from GitHub Pages. No authentication, no rate limit. The full set
+    is ~26 MB, so it lives under /data/ and /api/v1/ serves one file per country plus
+    an index. A weekly workflow re-fetches the CSV and commits only when it changed.
+  contact:
+    name: Chirag Singhal
+    email: chirag@oriz.in
+    url: https://github.com/chirag127
+  license:
+    name: MIT
+    url: https://github.com/chirag127/world-airports-api/blob/main/LICENSE
+servers:
+  - url: https://chirag127.github.io/world-airports-api
+    description: GitHub Pages
+paths:
+  /api/v1/index.json:
+    get:
+      summary: Country index
+      description: File name and record count per country.
+      operationId: getIndex
+      responses:
+        "200":
+          description: The country index.
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/Index"
+  /api/v1/airports/{country}.json:
+    get:
+      summary: One country's airports
+      description: >-
+        All airports for one ISO 3166-1 alpha-2 country code, e.g. `US.json`
+        (32,709 records) or `DE.json` (1,435 records).
+      operationId: getCountry
+      parameters:
+        - name: country
+          in: path
+          required: true
+          description: Two-letter ISO 3166-1 alpha-2 country code.
+          schema:
+            type: string
+            pattern: "^[A-Z]{2}$"
+          example: US
+      responses:
+        "200":
+          description: The airports of one country.
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/AirportCollection"
+        "404":
+          description: Unknown country code.
+  /data/airports.json:
+    get:
+      summary: The full 86,350-record dataset
+      description: ~26 MB. Prefer the per-country files unless you need everything.
+      operationId: getAll
+      responses:
+        "200":
+          description: The complete dataset.
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/AirportCollection"
+components:
+  schemas:
+    Airport:
+      type: object
+      required: [ident, iata, icao, name, type, lat, lon, elevation, country, municipality, scheduledService]
+      properties:
+        ident:
+          type: string
+          description: OurAirports identifier; equals the ICAO code when one exists
+          example: KJFK
+        iata:
+          type: string
+          nullable: true
+          example: JFK
+        icao:
+          type: string
+          nullable: true
+          example: KJFK
+        name:
+          type: string
+          example: John F. Kennedy International Airport
+        type:
+          type: string
+          enum: [large_airport, medium_airport, small_airport, heliport, seaplane_base, balloonport, closed]
+          example: large_airport
+        lat:
+          type: number
+          example: 40.639447
+        lon:
+          type: number
+          example: -73.779317
+        elevation:
+          type: number
+          nullable: true
+          description: Feet above mean sea level
+          example: 13
+        country:
+          type: string
+          example: US
+        municipality:
+          type: string
+          nullable: true
+          example: New York
+        scheduledService:
+          type: string
+          nullable: true
+          enum: [yes, no, null]
+          example: "yes"
+    AirportCollection:
+      type: object
+      properties:
+        generatedFrom:
+          type: string
+          format: uri
+        count:
+          type: integer
+          example: 86350
+        records:
+          type: array
+          items:
+            $ref: "#/components/schemas/Airport"
+    Index:
+      type: object
+      properties:
+        generatedFrom:
+          type: string
+          format: uri
+        count:
+          type: integer
+          example: 86350
+        countries:
+          type: array
+          items:
+            type: object
+            properties:
+              country:
+                type: string
+                example: US
+              file:
+                type: string
+                example: airports/US.json
+              count:
+                type: integer
+                example: 32709

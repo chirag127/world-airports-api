@@ -1,0 +1,45 @@
+{
+  "generatedFrom": "https://davidmegginson.github.io/ourairports-data/airports.csv",
+  "count": 3,
+  "records": [
+    {
+      "ident": "LNMC",
+      "iata": "MCM",
+      "icao": "LNMC",
+      "name": "Monaco Heliport",
+      "type": "heliport",
+      "lat": 43.725798,
+      "lon": 7.419673,
+      "elevation": 20,
+      "country": "MC",
+      "municipality": "Fontvieille",
+      "scheduledService": "yes"
+    },
+    {
+      "ident": "MC-0001",
+      "iata": null,
+      "icao": null,
+      "name": "Terre-Plein du Larvotto Heliport",
+      "type": "heliport",
+      "lat": 43.746543,
+      "lon": 7.43894,
+      "elevation": null,
+      "country": "MC",
+      "municipality": "Larvotto",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "MC-0002",
+      "iata": null,
+      "icao": null,
+      "name": "Helipuerto del Centro Hospitalario “Princess Grace”",
+      "type": "heliport",
+      "lat": 43.729392,
+      "lon": 7.410111,
+      "elevation": null,
+      "country": "MC",
+      "municipality": "La Colle",
+      "scheduledService": "no"
+    }
+  ]
+}

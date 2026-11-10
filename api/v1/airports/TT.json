@@ -1,0 +1,45 @@
+{
+  "generatedFrom": "https://davidmegginson.github.io/ourairports-data/airports.csv",
+  "count": 3,
+  "records": [
+    {
+      "ident": "TT-TT01",
+      "iata": null,
+      "icao": null,
+      "name": "Camden Airfield",
+      "type": "small_airport",
+      "lat": 10.4263,
+      "lon": -61.439701,
+      "elevation": 75,
+      "country": "TT",
+      "municipality": "Couva",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "TTCP",
+      "iata": "TAB",
+      "icao": "TTCP",
+      "name": "A.N.R. Robinson International Airport",
+      "type": "large_airport",
+      "lat": 11.149571,
+      "lon": -60.831298,
+      "elevation": 38,
+      "country": "TT",
+      "municipality": "Scarborough",
+      "scheduledService": "yes"
+    },
+    {
+      "ident": "TTPP",
+      "iata": "POS",
+      "icao": "TTPP",
+      "name": "Piarco International Airport",
+      "type": "large_airport",
+      "lat": 10.59535,
+      "lon": -61.337568,
+      "elevation": 58,
+      "country": "TT",
+      "municipality": "Port of Spain",
+      "scheduledService": "yes"
+    }
+  ]
+}

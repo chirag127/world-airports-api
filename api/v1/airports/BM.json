@@ -1,0 +1,58 @@
+{
+  "generatedFrom": "https://davidmegginson.github.io/ourairports-data/airports.csv",
+  "count": 4,
+  "records": [
+    {
+      "ident": "BM-0001",
+      "iata": null,
+      "icao": null,
+      "name": "RNAS Boaz Island",
+      "type": "closed",
+      "lat": 32.320801,
+      "lon": -64.841103,
+      "elevation": null,
+      "country": "BM",
+      "municipality": "Sandys",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "BM-0002",
+      "iata": null,
+      "icao": null,
+      "name": "Naval Air Station Bermuda Annex",
+      "type": "closed",
+      "lat": 32.269871,
+      "lon": -64.851616,
+      "elevation": null,
+      "country": "BM",
+      "municipality": "Sandys",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "BM-0003",
+      "iata": null,
+      "icao": null,
+      "name": "Darrell's Island Seaplane Base",
+      "type": "closed",
+      "lat": 32.27513,
+      "lon": -64.81915,
+      "elevation": null,
+      "country": "BM",
+      "municipality": "Warwick",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "TXKF",
+      "iata": "BDA",
+      "icao": "TXKF",
+      "name": "L.F. Wade International Airport",
+      "type": "large_airport",
+      "lat": 32.363802,
+      "lon": -64.67824,
+      "elevation": 12,
+      "country": "BM",
+      "municipality": "Hamilton",
+      "scheduledService": "yes"
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "generatedFrom": "https://davidmegginson.github.io/ourairports-data/airports.csv",
+  "count": 9,
+  "records": [
+    {
+      "ident": "HRYG",
+      "iata": "GYI",
+      "icao": "HRYG",
+      "name": "Gisenyi Airport",
+      "type": "medium_airport",
+      "lat": -1.6772,
+      "lon": 29.2589,
+      "elevation": 5082,
+      "country": "RW",
+      "municipality": "Gisenyi",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "HRYI",
+      "iata": "BTQ",
+      "icao": "HRYI",
+      "name": "Butare Airport",
+      "type": "small_airport",
+      "lat": -2.59583,
+      "lon": 29.7367,
+      "elevation": 5801,
+      "country": "RW",
+      "municipality": "Butare",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "HRYN",
+      "iata": null,
+      "icao": "HRYN",
+      "name": "Nemba Airport",
+      "type": "small_airport",
+      "lat": -2.336167,
+      "lon": 30.206658,
+      "elevation": 4905,
+      "country": "RW",
+      "municipality": "Nemba",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "HRYO",
+      "iata": null,
+      "icao": null,
+      "name": "Gabiro Airport",
+      "type": "small_airport",
+      "lat": -1.5499999523162842,
+      "lon": 30.382999420166016,
+      "elevation": 4806,
+      "country": "RW",
+      "municipality": "Gabiro",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "HRYR",
+      "iata": "KGL",
+      "icao": "HRYR",
+      "name": "Kigali International Airport",
+      "type": "large_airport",
+      "lat": -1.96863,
+      "lon": 30.1395,
+      "elevation": 4859,
+      "country": "RW",
+      "municipality": "Kigali",
+      "scheduledService": "yes"
+    },
+    {
+      "ident": "HRYU",
+      "iata": "RHG",
+      "icao": "HRYU",
+      "name": "Ruhengeri Airport",
+      "type": "small_airport",
+      "lat": -1.496873,
+      "lon": 29.631343,
+      "elevation": 6102,
+      "country": "RW",
+      "municipality": "Ruhengeri",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "HRZA",
+      "iata": "KME",
+      "icao": "HRZA",
+      "name": "Kamembe Airport",
+      "type": "medium_airport",
+      "lat": -2.462239980697632,
+      "lon": 28.907899856567383,
+      "elevation": 5192,
+      "country": "RW",
+      "municipality": "Kamembe",
+      "scheduledService": "yes"
+    },
+    {
+      "ident": "RW-0001",
+      "iata": null,
+      "icao": null,
+      "name": "Gako Airport",
+      "type": "small_airport",
+      "lat": -2.2308,
+      "lon": 30.1809,
+      "elevation": 4770,
+      "country": "RW",
+      "municipality": "Gako",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "RW-0002",
+      "iata": null,
+      "icao": null,
+      "name": "Bugesera International Airport (under construction)",
+      "type": "closed",
+      "lat": -2.1444,
+      "lon": 30.1835,
+      "elevation": 4630,
+      "country": "RW",
+      "municipality": "Rilima",
+      "scheduledService": "no"
+    }
+  ]
+}

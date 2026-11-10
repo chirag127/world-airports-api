@@ -1,0 +1,58 @@
+{
+  "generatedFrom": "https://davidmegginson.github.io/ourairports-data/airports.csv",
+  "count": 4,
+  "records": [
+    {
+      "ident": "AS-0001",
+      "iata": null,
+      "icao": null,
+      "name": "Tau Airport",
+      "type": "closed",
+      "lat": -14.23178,
+      "lon": -169.51101,
+      "elevation": 185,
+      "country": "AS",
+      "municipality": "Tau",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "NSAS",
+      "iata": "OFU",
+      "icao": "NSAS",
+      "name": "Ofu Airport",
+      "type": "small_airport",
+      "lat": -14.1844,
+      "lon": -169.669998,
+      "elevation": 9,
+      "country": "AS",
+      "municipality": "Ofu",
+      "scheduledService": "yes"
+    },
+    {
+      "ident": "NSFQ",
+      "iata": "FTI",
+      "icao": "NSFQ",
+      "name": "Fitiuta Airport",
+      "type": "small_airport",
+      "lat": -14.216131,
+      "lon": -169.423771,
+      "elevation": 110,
+      "country": "AS",
+      "municipality": "Fitiuta Village",
+      "scheduledService": "yes"
+    },
+    {
+      "ident": "NSTU",
+      "iata": "PPG",
+      "icao": "NSTU",
+      "name": "Pago Pago International Airport",
+      "type": "large_airport",
+      "lat": -14.331,
+      "lon": -170.710007,
+      "elevation": 32,
+      "country": "AS",
+      "municipality": "Pago Pago",
+      "scheduledService": "yes"
+    }
+  ]
+}

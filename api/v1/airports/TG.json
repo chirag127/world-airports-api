@@ -1,0 +1,97 @@
+{
+  "generatedFrom": "https://davidmegginson.github.io/ourairports-data/airports.csv",
+  "count": 7,
+  "records": [
+    {
+      "ident": "DXAK",
+      "iata": null,
+      "icao": "DXAK",
+      "name": "Akpaka Airport",
+      "type": "small_airport",
+      "lat": 7.583,
+      "lon": 1.117,
+      "elevation": 689,
+      "country": "TG",
+      "municipality": "Atakpamé",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "DXDP",
+      "iata": null,
+      "icao": "DXDP",
+      "name": "Djangou Airport",
+      "type": "small_airport",
+      "lat": 10.800417,
+      "lon": 0.242372,
+      "elevation": 886,
+      "country": "TG",
+      "municipality": "Dapaong",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "DXKP",
+      "iata": null,
+      "icao": "DXKP",
+      "name": "Kolokope Airport",
+      "type": "small_airport",
+      "lat": 7.803451,
+      "lon": 1.295966,
+      "elevation": 591,
+      "country": "TG",
+      "municipality": "Anié",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "DXMG",
+      "iata": null,
+      "icao": "DXMG",
+      "name": "Sansanné-Mango Airport",
+      "type": "small_airport",
+      "lat": 10.373011,
+      "lon": 0.471382,
+      "elevation": 460,
+      "country": "TG",
+      "municipality": "Mango",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "DXNG",
+      "iata": "LRL",
+      "icao": "DXNG",
+      "name": "Niamtougou International Airport",
+      "type": "large_airport",
+      "lat": 9.766675,
+      "lon": 1.090944,
+      "elevation": 1515,
+      "country": "TG",
+      "municipality": "Niamtougou",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "DXSK",
+      "iata": null,
+      "icao": "DXSK",
+      "name": "Sokodé Airport",
+      "type": "small_airport",
+      "lat": 8.994275,
+      "lon": 1.153004,
+      "elevation": 1214,
+      "country": "TG",
+      "municipality": "Sokodé",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "DXXX",
+      "iata": "LFW",
+      "icao": "DXXX",
+      "name": "Lomé–Tokoin International Airport",
+      "type": "large_airport",
+      "lat": 6.16561,
+      "lon": 1.25451,
+      "elevation": 72,
+      "country": "TG",
+      "municipality": "Lomé",
+      "scheduledService": "yes"
+    }
+  ]
+}

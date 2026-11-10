@@ -1,0 +1,32 @@
+{
+  "generatedFrom": "https://davidmegginson.github.io/ourairports-data/airports.csv",
+  "count": 2,
+  "records": [
+    {
+      "ident": "FAHS",
+      "iata": null,
+      "icao": null,
+      "name": "Non-Existent Airport",
+      "type": "closed",
+      "lat": -46.181902,
+      "lon": -12.114796,
+      "elevation": 1743,
+      "country": "ZZ",
+      "municipality": null,
+      "scheduledService": "no"
+    },
+    {
+      "ident": "ZZ-0004",
+      "iata": null,
+      "icao": "JZRO",
+      "name": "(Bogus)Jezero Crater(Location is India not Planet Mars)",
+      "type": "heliport",
+      "lat": 18.44,
+      "lon": 77.45,
+      "elevation": 8530,
+      "country": "ZZ",
+      "municipality": null,
+      "scheduledService": "no"
+    }
+  ]
+}

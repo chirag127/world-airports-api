@@ -1,0 +1,97 @@
+{
+  "generatedFrom": "https://davidmegginson.github.io/ourairports-data/airports.csv",
+  "count": 7,
+  "records": [
+    {
+      "ident": "EGNS",
+      "iata": "IOM",
+      "icao": "EGNS",
+      "name": "Isle of Man Airport",
+      "type": "large_airport",
+      "lat": 54.083081,
+      "lon": -4.623871,
+      "elevation": 52,
+      "country": "IM",
+      "municipality": "Castletown, Rushen",
+      "scheduledService": "yes"
+    },
+    {
+      "ident": "IM-0001",
+      "iata": null,
+      "icao": null,
+      "name": "Andreas Airfield",
+      "type": "small_airport",
+      "lat": 54.371111,
+      "lon": -4.423333,
+      "elevation": 97,
+      "country": "IM",
+      "municipality": "Andreas",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "IM-0002",
+      "iata": null,
+      "icao": null,
+      "name": "RAF Jurby",
+      "type": "closed",
+      "lat": 54.354,
+      "lon": -4.5238,
+      "elevation": 84,
+      "country": "IM",
+      "municipality": "Jurby",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "IM-0003",
+      "iata": null,
+      "icao": null,
+      "name": "Mount Rule Farm Airstrip",
+      "type": "small_airport",
+      "lat": 54.182127,
+      "lon": -4.51311,
+      "elevation": 316,
+      "country": "IM",
+      "municipality": "Braddan",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "IM-0004",
+      "iata": null,
+      "icao": null,
+      "name": "Andreas-Ballavoddan House Airstrip",
+      "type": "small_airport",
+      "lat": 54.356006,
+      "lon": -4.438477,
+      "elevation": null,
+      "country": "IM",
+      "municipality": "Andreas",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "IM-0005",
+      "iata": null,
+      "icao": null,
+      "name": "Noble's Hospital Heliport",
+      "type": "heliport",
+      "lat": 54.1703682,
+      "lon": -4.507838,
+      "elevation": null,
+      "country": "IM",
+      "municipality": "Douglas",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "IM-0006",
+      "iata": null,
+      "icao": null,
+      "name": "Hall Caine Airport",
+      "type": "closed",
+      "lat": 54.33583,
+      "lon": -4.4375,
+      "elevation": 30,
+      "country": "IM",
+      "municipality": "Ramsey",
+      "scheduledService": "no"
+    }
+  ]
+}

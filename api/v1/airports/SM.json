@@ -1,0 +1,32 @@
+{
+  "generatedFrom": "https://davidmegginson.github.io/ourairports-data/airports.csv",
+  "count": 2,
+  "records": [
+    {
+      "ident": "LIKD",
+      "iata": null,
+      "icao": "LIKD",
+      "name": "Torraccia Airfield",
+      "type": "small_airport",
+      "lat": 43.948895,
+      "lon": 12.511411,
+      "elevation": 787,
+      "country": "SM",
+      "municipality": "Torraccia",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "SM-0001",
+      "iata": null,
+      "icao": null,
+      "name": "Borgo Maggiore International Heliport",
+      "type": "closed",
+      "lat": 43.940459,
+      "lon": 12.446249,
+      "elevation": 1660,
+      "country": "SM",
+      "municipality": "Borgo Maggiore",
+      "scheduledService": "no"
+    }
+  ]
+}

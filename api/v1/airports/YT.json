@@ -1,0 +1,19 @@
+{
+  "generatedFrom": "https://davidmegginson.github.io/ourairports-data/airports.csv",
+  "count": 1,
+  "records": [
+    {
+      "ident": "FMCZ",
+      "iata": "DZA",
+      "icao": "FMCZ",
+      "name": "Dzaoudzi Pamandzi International Airport",
+      "type": "large_airport",
+      "lat": -12.809319,
+      "lon": 45.281815,
+      "elevation": 23,
+      "country": "YT",
+      "municipality": "Dzaoudzi",
+      "scheduledService": "yes"
+    }
+  ]
+}

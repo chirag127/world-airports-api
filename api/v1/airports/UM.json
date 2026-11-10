@@ -1,0 +1,123 @@
+{
+  "generatedFrom": "https://davidmegginson.github.io/ourairports-data/airports.csv",
+  "count": 9,
+  "records": [
+    {
+      "ident": "PLPA",
+      "iata": null,
+      "icao": "PLPA",
+      "name": "Palmyra (Cooper) Airport",
+      "type": "small_airport",
+      "lat": 5.888748,
+      "lon": -162.077866,
+      "elevation": 5,
+      "country": "UM",
+      "municipality": "Palmyra Island Atoll",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "PMDY",
+      "iata": "MDY",
+      "icao": "PMDY",
+      "name": "Henderson Field",
+      "type": "medium_airport",
+      "lat": 28.2017,
+      "lon": -177.380997,
+      "elevation": 13,
+      "country": "UM",
+      "municipality": "Sand Island",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "PWAK",
+      "iata": "AWK",
+      "icao": "PWAK",
+      "name": "Wake Island Airfield",
+      "type": "medium_airport",
+      "lat": 19.282437,
+      "lon": 166.636637,
+      "elevation": 14,
+      "country": "UM",
+      "municipality": "Wake Island",
+      "scheduledService": "yes"
+    },
+    {
+      "ident": "UM-0001",
+      "iata": null,
+      "icao": null,
+      "name": "Henderson Field (East Midway)",
+      "type": "closed",
+      "lat": 28.209396,
+      "lon": -177.330902,
+      "elevation": null,
+      "country": "UM",
+      "municipality": "Eastern Island",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "UM-0002",
+      "iata": null,
+      "icao": null,
+      "name": "Kamakaiwi Field",
+      "type": "closed",
+      "lat": 0.809797,
+      "lon": -176.615705,
+      "elevation": null,
+      "country": "UM",
+      "municipality": "Howland Island",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "UM-0004",
+      "iata": null,
+      "icao": null,
+      "name": "Jarvis Island Airport",
+      "type": "closed",
+      "lat": -0.36633,
+      "lon": -159.9913,
+      "elevation": 10,
+      "country": "UM",
+      "municipality": "Jarvis Island",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "UM-0005",
+      "iata": null,
+      "icao": null,
+      "name": "Kingman Reef Seaplane Base",
+      "type": "closed",
+      "lat": 6.40405,
+      "lon": -162.37781,
+      "elevation": null,
+      "country": "UM",
+      "municipality": "Kingman Reef",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "UM-0006",
+      "iata": null,
+      "icao": null,
+      "name": "Johnston Atoll Airport",
+      "type": "closed",
+      "lat": 16.728852,
+      "lon": -169.534342,
+      "elevation": 7,
+      "country": "UM",
+      "municipality": "Johnston Atoll",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "UM-0007",
+      "iata": null,
+      "icao": null,
+      "name": "Baker Island Army Airfield",
+      "type": "closed",
+      "lat": 0.192639,
+      "lon": -176.478889,
+      "elevation": null,
+      "country": "UM",
+      "municipality": "Baker Island",
+      "scheduledService": "no"
+    }
+  ]
+}

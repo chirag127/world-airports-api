@@ -1,0 +1,32 @@
+{
+  "generatedFrom": "https://davidmegginson.github.io/ourairports-data/airports.csv",
+  "count": 2,
+  "records": [
+    {
+      "ident": "MSB",
+      "iata": "MSB",
+      "icao": null,
+      "name": "Marigot Seaplane Base",
+      "type": "seaplane_base",
+      "lat": 18.0696,
+      "lon": -63.087,
+      "elevation": 0,
+      "country": "MF",
+      "municipality": "Saint Martin",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "TFFG",
+      "iata": "SFG",
+      "icao": "TFFG",
+      "name": "Grand Case-l'Espérance Airport",
+      "type": "medium_airport",
+      "lat": 18.100057,
+      "lon": -63.047444,
+      "elevation": 7,
+      "country": "MF",
+      "municipality": "Grand Case",
+      "scheduledService": "yes"
+    }
+  ]
+}

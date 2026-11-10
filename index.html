@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>World Airports API — free static JSON of the OurAirports database</title>
+<meta name="description" content="All 86,350 airports from the OurAirports database across 247 countries as free static JSON. No authentication, no rate limit, no server.">
+<style>
+  :root {
+    --bg: #0d1117;
+    --fg: #e6edf3;
+    --muted: #9198a1;
+    --accent: #58a6ff;
+    --border: #30363d;
+    --card: #161b22;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+    background: var(--bg);
+    color: var(--fg);
+    line-height: 1.6;
+  }
+  main { max-width: 52rem; margin: 0 auto; padding: 2rem 1.25rem 4rem; }
+  h1 { font-size: 1.9rem; margin: 0 0 0.25rem; }
+  h2 { font-size: 1.25rem; margin-top: 2.5rem; border-bottom: 1px solid var(--border); padding-bottom: 0.3rem; }
+  p.lead { color: var(--muted); font-size: 1.05rem; }
+  a { color: var(--accent); }
+  code {
+    font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 0.1em 0.35em;
+    font-size: 0.9em;
+  }
+  pre {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 1rem;
+    overflow-x: auto;
+    font-size: 0.85rem;
+  }
+  table { width: 100%; border-collapse: collapse; font-size: 0.92rem; }
+  th, td { text-align: left; padding: 0.5rem 0.6rem; border-bottom: 1px solid var(--border); vertical-align: top; }
+  th { color: var(--muted); font-weight: 600; }
+  ul { padding-left: 1.25rem; }
+  li { margin-bottom: 0.4rem; }
+  .badge {
+    display: inline-block;
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 999px;
+    padding: 0.15rem 0.7rem;
+    font-size: 0.8rem;
+    color: var(--muted);
+    margin-right: 0.4rem;
+  }
+  footer.hire-me {
+    margin-top: 3rem;
+    border-top: 1px solid var(--border);
+    padding-top: 1.5rem;
+  }
+  footer.hire-me h3 { margin: 0 0 0.5rem; }
+  footer.hire-me p { margin: 0.25rem 0; }
+  #output {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 1rem;
+    font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+    font-size: 0.85rem;
+    white-space: pre-wrap;
+    min-height: 4rem;
+    color: var(--muted);
+  }
+</style>
+</head>
+<body>
+<main>
+
+<h1>World Airports API</h1>
+<p class="lead">
+  All 86,350 airports from the OurAirports database — every heliport, seaplane base,
+  balloon port and airfield across 247 countries — as free static JSON. No authentication.
+  No server. No rate limit.
+</p>
+<p>
+  <span class="badge">86,350 airports</span>
+  <span class="badge">247 countries</span>
+  <span class="badge">9,053 IATA · 10,668 ICAO codes</span>
+  <span class="badge">updated weekly</span>
+</p>
+
+<h2>Try it</h2>
+<pre>curl https://chirag127.github.io/world-airports-api/api/v1/airports/DE.json</pre>
+<p>Or fetch the country index right now:</p>
+<div id="output">Loading…</div>
+
+<h2>Endpoints</h2>
+<table>
+  <tr><th>Endpoint</th><th>Description</th><th>Size</th></tr>
+  <tr>
+    <td><code>/api/v1/index.json</code></td>
+    <td>Country index: file name and record count per country</td>
+    <td>~12 KB</td>
+  </tr>
+  <tr>
+    <td><code>/api/v1/airports/{country}.json</code></td>
+    <td>One country per file, e.g. <code>US.json</code> (32,709 records) or <code>DE.json</code> (1,435 records)</td>
+    <td>247 files</td>
+  </tr>
+  <tr>
+    <td><code>/data/airports.json</code></td>
+    <td>The full 86,350-record set (source of truth for the repo)</td>
+    <td>~26 MB</td>
+  </tr>
+</table>
+
+<h2>What you get</h2>
+<table>
+  <tr><th>Field</th><th>Example</th><th>Notes</th></tr>
+  <tr><td><code>ident</code></td><td><code>KJFK</code></td><td>OurAirports identifier</td></tr>
+  <tr><td><code>iata</code></td><td><code>JFK</code></td><td>IATA code, <code>null</code> if none published</td></tr>
+  <tr><td><code>icao</code></td><td><code>KJFK</code></td><td>ICAO code, <code>null</code> if none published</td></tr>
+  <tr><td><code>name</code></td><td><code>John F. Kennedy International Airport</code></td><td>Verbatim source name</td></tr>
+  <tr><td><code>type</code></td><td><code>large_airport</code></td><td>One of seven categories, <code>closed</code> included</td></tr>
+  <tr><td><code>lat</code> / <code>lon</code></td><td><code>40.639447</code> / <code>-73.779317</code></td><td>Reference point, WGS84 decimal degrees</td></tr>
+  <tr><td><code>elevation</code></td><td><code>13</code></td><td>Feet MSL, <code>null</code> if unknown</td></tr>
+  <tr><td><code>country</code></td><td><code>US</code></td><td>ISO 3166-1 alpha-2 code</td></tr>
+  <tr><td><code>municipality</code></td><td><code>New York</code></td><td>City or municipality, <code>null</code> if unknown</td></tr>
+  <tr><td><code>scheduledService</code></td><td><code>yes</code></td><td><code>yes</code>, <code>no</code> or <code>null</code></td></tr>
+</table>
+
+<h2>How it stays fresh</h2>
+<p>
+  The <code>update.yml</code> workflow runs weekly, fetches
+  <a href="https://davidmegginson.github.io/ourairports-data/airports.csv">airports.csv</a>
+  from the OurAirports project, regenerates the JSON and commits only when the data actually
+  changed. GitHub Pages serves the result. No server to run.
+</p>
+
+<h2>Data source and accuracy</h2>
+<p>
+  The source is the <a href="https://ourairports.com/">OurAirports data dump</a> maintained
+  by David Megginson, in the public domain. It is the successor to the open FAA database and
+  is updated continuously from national registries. All 86,350 rows of the current dump are
+  included: 42,790 small airports, 23,283 heliports, 13,659 closed facilities, 4,107 medium
+  airports, 1,274 seaplane bases, 1,175 large airports and 62 balloon ports.
+</p>
+
+<h2>Limits, stated plainly</h2>
+<ul>
+  <li>The full dataset is ~26 MB of JSON — use the per-country files or filter after fetching.</li>
+  <li>13,659 records are marked <code>closed</code>; they are kept because historical references still resolve to them.</li>
+  <li>IATA/ICAO coverage is sparse by nature, so treat a <code>null</code> code as "none published", not an error.</li>
+  <li>Coordinates are single reference points — no runways, taxiways or frequencies are included.</li>
+</ul>
+
+<h2>Licence</h2>
+<p>Data: the OurAirports data dump is in the public domain. Code: MIT.</p>
+
+<footer class="hire-me">
+  <h3>Hire me</h3>
+  <p>Chirag Singhal — building free, open APIs and tools.</p>
+  <p>
+    <a href="mailto:chirag@oriz.in">chirag@oriz.in</a> ·
+    <a href="https://github.com/chirag127">GitHub</a> ·
+    <a href="https://www.linkedin.com/in/chirag127/">LinkedIn</a> ·
+    <a href="https://x.com/singhal127">X</a> ·
+    <a href="https://www.youtube.com/@ChiragSinghal127">YouTube</a> ·
+    <a href="https://www.instagram.com/chiragsinghal127/">Instagram</a> ·
+    <a href="https://www.reddit.com/user/Far_Macaron_9910/">Reddit</a> ·
+    <a href="https://buymeacoffee.com/chirag127">Buy me a coffee</a>
+  </p>
+</footer>
+
+</main>
+<script>
+  fetch("api/v1/index.json")
+    .then((r) => r.json())
+    .then((d) => {
+      document.getElementById("output").textContent =
+        JSON.stringify(d.countries.slice(0, 3), null, 2) +
+        "\n… " + d.countries.length + " countries, " + d.count + " airports total";
+    })
+    .catch(() => {
+      document.getElementById("output").textContent =
+        "Live fetch failed here — on GitHub Pages this returns the real data.";
+    });
+</script>
+</body>
+</html>

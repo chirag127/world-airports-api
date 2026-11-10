@@ -1,0 +1,58 @@
+{
+  "generatedFrom": "https://davidmegginson.github.io/ourairports-data/airports.csv",
+  "count": 4,
+  "records": [
+    {
+      "ident": "FMCH",
+      "iata": "HAH",
+      "icao": "FMCH",
+      "name": "Prince Said Ibrahim International Airport",
+      "type": "medium_airport",
+      "lat": -11.5337,
+      "lon": 43.2719,
+      "elevation": 93,
+      "country": "KM",
+      "municipality": "Moroni",
+      "scheduledService": "yes"
+    },
+    {
+      "ident": "FMCI",
+      "iata": "NWA",
+      "icao": "FMCI",
+      "name": "Mohéli Bandar Es Eslam Airport",
+      "type": "medium_airport",
+      "lat": -12.298096,
+      "lon": 43.766496,
+      "elevation": 46,
+      "country": "KM",
+      "municipality": "Fomboni",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "FMCV",
+      "iata": "AJN",
+      "icao": "FMCV",
+      "name": "Ouani Airport",
+      "type": "medium_airport",
+      "lat": -12.131047,
+      "lon": 44.430044,
+      "elevation": 62,
+      "country": "KM",
+      "municipality": "Ouani",
+      "scheduledService": "yes"
+    },
+    {
+      "ident": "KM-0001",
+      "iata": null,
+      "icao": null,
+      "name": "Iconi Airport",
+      "type": "closed",
+      "lat": -11.7108,
+      "lon": 43.2439,
+      "elevation": 33,
+      "country": "KM",
+      "municipality": "Moroni",
+      "scheduledService": "no"
+    }
+  ]
+}

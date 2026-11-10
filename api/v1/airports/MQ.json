@@ -1,0 +1,58 @@
+{
+  "generatedFrom": "https://davidmegginson.github.io/ourairports-data/airports.csv",
+  "count": 4,
+  "records": [
+    {
+      "ident": "MQ-0001",
+      "iata": null,
+      "icao": null,
+      "name": "Bouillon Heliport",
+      "type": "heliport",
+      "lat": 14.840883,
+      "lon": -61.106912,
+      "elevation": null,
+      "country": "MQ",
+      "municipality": "L'Ajoupa-Bouillon",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "MQ-0002",
+      "iata": null,
+      "icao": null,
+      "name": "Bellefontaine Heliport",
+      "type": "heliport",
+      "lat": 14.66652,
+      "lon": -61.158803,
+      "elevation": null,
+      "country": "MQ",
+      "municipality": "Bellefontaine",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "MQ-0003",
+      "iata": null,
+      "icao": null,
+      "name": "Le Carbet Aerodrome",
+      "type": "closed",
+      "lat": 14.706979,
+      "lon": -61.171937,
+      "elevation": null,
+      "country": "MQ",
+      "municipality": "Le Carbet",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "TFFF",
+      "iata": "FDF",
+      "icao": "TFFF",
+      "name": "Martinique Aimé Césaire International Airport",
+      "type": "large_airport",
+      "lat": 14.591,
+      "lon": -61.003201,
+      "elevation": 16,
+      "country": "MQ",
+      "municipality": "Fort-de-France",
+      "scheduledService": "yes"
+    }
+  ]
+}

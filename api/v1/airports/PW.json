@@ -1,0 +1,45 @@
+{
+  "generatedFrom": "https://davidmegginson.github.io/ourairports-data/airports.csv",
+  "count": 3,
+  "records": [
+    {
+      "ident": "ANG",
+      "iata": null,
+      "icao": null,
+      "name": "Angaur",
+      "type": "small_airport",
+      "lat": 6.906829,
+      "lon": 134.145386,
+      "elevation": 20,
+      "country": "PW",
+      "municipality": "Angaur Island",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "C23",
+      "iata": null,
+      "icao": null,
+      "name": "Peleliu Airport",
+      "type": "small_airport",
+      "lat": 6.99744,
+      "lon": 134.232055,
+      "elevation": 9,
+      "country": "PW",
+      "municipality": "Peleliu",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "PTRO",
+      "iata": "ROR",
+      "icao": "PTRO",
+      "name": "Roman Tmetuchl International Airport",
+      "type": "large_airport",
+      "lat": 7.366965,
+      "lon": 134.544085,
+      "elevation": 176,
+      "country": "PW",
+      "municipality": "Babelthuap Island",
+      "scheduledService": "yes"
+    }
+  ]
+}

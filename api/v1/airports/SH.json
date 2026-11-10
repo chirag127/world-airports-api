@@ -1,0 +1,58 @@
+{
+  "generatedFrom": "https://davidmegginson.github.io/ourairports-data/airports.csv",
+  "count": 4,
+  "records": [
+    {
+      "ident": "FHAW",
+      "iata": "ASI",
+      "icao": "FHAW",
+      "name": "RAF Ascension Island",
+      "type": "medium_airport",
+      "lat": -7.970179,
+      "lon": -14.392744,
+      "elevation": 278,
+      "country": "SH",
+      "municipality": "Cat Hill",
+      "scheduledService": "yes"
+    },
+    {
+      "ident": "FHSH",
+      "iata": "HLE",
+      "icao": "FHSH",
+      "name": "Saint Helena International Airport",
+      "type": "medium_airport",
+      "lat": -15.958898,
+      "lon": -5.646066,
+      "elevation": 1017,
+      "country": "SH",
+      "municipality": "Jamestown",
+      "scheduledService": "yes"
+    },
+    {
+      "ident": "SH-0001",
+      "iata": null,
+      "icao": "FAGE",
+      "name": "Gough Island Heliport",
+      "type": "heliport",
+      "lat": -40.347933,
+      "lon": -9.881306,
+      "elevation": 204,
+      "country": "SH",
+      "municipality": "Gough Island",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "SH-0002",
+      "iata": null,
+      "icao": null,
+      "name": "Saint Helena Heliport",
+      "type": "heliport",
+      "lat": -15.960775,
+      "lon": -5.654768,
+      "elevation": null,
+      "country": "SH",
+      "municipality": "Longwood",
+      "scheduledService": "no"
+    }
+  ]
+}

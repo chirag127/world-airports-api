@@ -1,0 +1,19 @@
+{
+  "generatedFrom": "https://davidmegginson.github.io/ourairports-data/airports.csv",
+  "count": 1,
+  "records": [
+    {
+      "ident": "FJDG",
+      "iata": "NKW",
+      "icao": null,
+      "name": "Naval Support Facility Diego Garcia",
+      "type": "medium_airport",
+      "lat": -7.31327,
+      "lon": 72.411102,
+      "elevation": 9,
+      "country": "IO",
+      "municipality": "Diego Garcia",
+      "scheduledService": "no"
+    }
+  ]
+}

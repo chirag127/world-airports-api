@@ -1,0 +1,45 @@
+{
+  "generatedFrom": "https://davidmegginson.github.io/ourairports-data/airports.csv",
+  "count": 3,
+  "records": [
+    {
+      "ident": "AD-0001",
+      "iata": null,
+      "icao": null,
+      "name": "Terra Guindaldes Heliport",
+      "type": "heliport",
+      "lat": 42.546257,
+      "lon": 1.51916,
+      "elevation": null,
+      "country": "AD",
+      "municipality": "La Massana",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "AD-0002",
+      "iata": null,
+      "icao": null,
+      "name": "Arinsal (Coll de la Botella) Heliport",
+      "type": "closed",
+      "lat": 42.544983,
+      "lon": 1.452258,
+      "elevation": null,
+      "country": "AD",
+      "municipality": "La Massana",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "AD-ALV",
+      "iata": "ALV",
+      "icao": null,
+      "name": "Andorra la Vella Heliport",
+      "type": "heliport",
+      "lat": 42.511227,
+      "lon": 1.53365,
+      "elevation": 3450,
+      "country": "AD",
+      "municipality": "Escaldes-Engordany",
+      "scheduledService": "no"
+    }
+  ]
+}

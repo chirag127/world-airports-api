@@ -1,0 +1,45 @@
+{
+  "generatedFrom": "https://davidmegginson.github.io/ourairports-data/airports.csv",
+  "count": 3,
+  "records": [
+    {
+      "ident": "NGFU",
+      "iata": "FUN",
+      "icao": "NGFU",
+      "name": "Funafuti International Airport",
+      "type": "medium_airport",
+      "lat": -8.523885,
+      "lon": 179.196976,
+      "elevation": 9,
+      "country": "TV",
+      "municipality": "Funafuti",
+      "scheduledService": "yes"
+    },
+    {
+      "ident": "TV-0001",
+      "iata": null,
+      "icao": null,
+      "name": "Nanumea Airfield",
+      "type": "closed",
+      "lat": -5.683334,
+      "lon": 176.129,
+      "elevation": 36,
+      "country": "TV",
+      "municipality": null,
+      "scheduledService": "no"
+    },
+    {
+      "ident": "TV-0002",
+      "iata": null,
+      "icao": null,
+      "name": "Nukufetau Airfield",
+      "type": "closed",
+      "lat": -8.065,
+      "lon": 178.377224,
+      "elevation": 55,
+      "country": "TV",
+      "municipality": "Motulalo Island",
+      "scheduledService": "no"
+    }
+  ]
+}

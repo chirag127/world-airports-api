@@ -1,0 +1,97 @@
+{
+  "generatedFrom": "https://davidmegginson.github.io/ourairports-data/airports.csv",
+  "count": 7,
+  "records": [
+    {
+      "ident": "FMZJ",
+      "iata": null,
+      "icao": null,
+      "name": "Juan de Nova Airstrip",
+      "type": "small_airport",
+      "lat": -17.05396,
+      "lon": 42.7193,
+      "elevation": 3,
+      "country": "TF",
+      "municipality": "Juan de Nova",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "FR-0314",
+      "iata": null,
+      "icao": null,
+      "name": "Europa Island Airstrip",
+      "type": "small_airport",
+      "lat": -22.349385,
+      "lon": 40.35129,
+      "elevation": 38,
+      "country": "TF",
+      "municipality": "Europa Island",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "TF-0001",
+      "iata": null,
+      "icao": null,
+      "name": "Tromelin Island Airstrip",
+      "type": "small_airport",
+      "lat": -15.8916666667,
+      "lon": 54.5222222222,
+      "elevation": 20,
+      "country": "TF",
+      "municipality": "Ile Tromelin",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "TF-0002",
+      "iata": null,
+      "icao": null,
+      "name": "Port-aux-Français Heliport",
+      "type": "heliport",
+      "lat": -49.35033,
+      "lon": 70.22033,
+      "elevation": null,
+      "country": "TF",
+      "municipality": "Port-aux-Français",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "TF-0003",
+      "iata": null,
+      "icao": null,
+      "name": "Base Alfred Faure Heliport",
+      "type": "heliport",
+      "lat": -46.431689,
+      "lon": 51.857784,
+      "elevation": null,
+      "country": "TF",
+      "municipality": "Base Alfred Faure",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "TF-0004",
+      "iata": null,
+      "icao": null,
+      "name": "Amsterdam Island Heliport",
+      "type": "heliport",
+      "lat": -37.79807,
+      "lon": 77.57229,
+      "elevation": null,
+      "country": "TF",
+      "municipality": "Martin-de-Viviès",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "ZZ-0002",
+      "iata": null,
+      "icao": null,
+      "name": "Glorioso Islands Airstrip",
+      "type": "small_airport",
+      "lat": -11.584277777799999,
+      "lon": 47.296388888900005,
+      "elevation": 11,
+      "country": "TF",
+      "municipality": "Grande Glorieuse",
+      "scheduledService": "no"
+    }
+  ]
+}

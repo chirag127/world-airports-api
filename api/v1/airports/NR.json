@@ -1,0 +1,19 @@
+{
+  "generatedFrom": "https://davidmegginson.github.io/ourairports-data/airports.csv",
+  "count": 1,
+  "records": [
+    {
+      "ident": "ANYN",
+      "iata": "INU",
+      "icao": "ANYN",
+      "name": "Nauru International Airport",
+      "type": "medium_airport",
+      "lat": -0.547893,
+      "lon": 166.919525,
+      "elevation": 22,
+      "country": "NR",
+      "municipality": "Yaren",
+      "scheduledService": "yes"
+    }
+  ]
+}

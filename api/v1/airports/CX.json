@@ -1,0 +1,19 @@
+{
+  "generatedFrom": "https://davidmegginson.github.io/ourairports-data/airports.csv",
+  "count": 1,
+  "records": [
+    {
+      "ident": "YPXM",
+      "iata": "XCH",
+      "icao": "YPXM",
+      "name": "Christmas Island International Airport",
+      "type": "medium_airport",
+      "lat": -10.450387,
+      "lon": 105.6911,
+      "elevation": 916,
+      "country": "CX",
+      "municipality": "Flying Fish Cove",
+      "scheduledService": "yes"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "generatedFrom": "https://davidmegginson.github.io/ourairports-data/airports.csv",
+  "count": 1,
+  "records": [
+    {
+      "ident": "NIUE",
+      "iata": "IUE",
+      "icao": "NIUE",
+      "name": "Niue International Airport",
+      "type": "medium_airport",
+      "lat": -19.080109,
+      "lon": -169.923493,
+      "elevation": 209,
+      "country": "NU",
+      "municipality": "Alofi",
+      "scheduledService": "yes"
+    }
+  ]
+}

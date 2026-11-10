@@ -1,0 +1,19 @@
+{
+  "generatedFrom": "https://davidmegginson.github.io/ourairports-data/airports.csv",
+  "count": 1,
+  "records": [
+    {
+      "ident": "GS-0001",
+      "iata": null,
+      "icao": null,
+      "name": "Grytviken Emergency Helipad",
+      "type": "heliport",
+      "lat": -54.2824,
+      "lon": -36.5095,
+      "elevation": 27,
+      "country": "GS",
+      "municipality": "Grytviken",
+      "scheduledService": "no"
+    }
+  ]
+}

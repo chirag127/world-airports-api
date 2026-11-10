@@ -1,0 +1,45 @@
+{
+  "generatedFrom": "https://davidmegginson.github.io/ourairports-data/airports.csv",
+  "count": 3,
+  "records": [
+    {
+      "ident": "GD-0001",
+      "iata": null,
+      "icao": null,
+      "name": "Pearls Airport",
+      "type": "closed",
+      "lat": 12.14368,
+      "lon": -61.61692,
+      "elevation": 20,
+      "country": "GD",
+      "municipality": "Pearls",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "TGPY",
+      "iata": "GND",
+      "icao": "TGPY",
+      "name": "Maurice Bishop International Airport",
+      "type": "large_airport",
+      "lat": 12.003996,
+      "lon": -61.785302,
+      "elevation": 41,
+      "country": "GD",
+      "municipality": "Saint George's",
+      "scheduledService": "yes"
+    },
+    {
+      "ident": "TGPZ",
+      "iata": "CRU",
+      "icao": "TGPZ",
+      "name": "Lauriston Airport",
+      "type": "small_airport",
+      "lat": 12.4761,
+      "lon": -61.472801,
+      "elevation": 5,
+      "country": "GD",
+      "municipality": "Carriacou Island",
+      "scheduledService": "yes"
+    }
+  ]
+}

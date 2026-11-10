@@ -1,0 +1,97 @@
+{
+  "generatedFrom": "https://davidmegginson.github.io/ourairports-data/airports.csv",
+  "count": 7,
+  "records": [
+    {
+      "ident": "9OG1",
+      "iata": null,
+      "icao": null,
+      "name": "Barrigada Readiness Center Heliport",
+      "type": "heliport",
+      "lat": 13.475158,
+      "lon": 144.815983,
+      "elevation": 311,
+      "country": "GU",
+      "municipality": "Barrigada",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "GU-0001",
+      "iata": null,
+      "icao": null,
+      "name": "Northwest Field",
+      "type": "small_airport",
+      "lat": 13.624787,
+      "lon": 144.857358,
+      "elevation": null,
+      "country": "GU",
+      "municipality": "Dededo",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "GU-0002",
+      "iata": null,
+      "icao": null,
+      "name": "Orote Field",
+      "type": "closed",
+      "lat": 13.438096,
+      "lon": 144.641971,
+      "elevation": null,
+      "country": "GU",
+      "municipality": "Agat",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "GU-0003",
+      "iata": null,
+      "icao": null,
+      "name": "US Naval Hospital Heliport",
+      "type": "heliport",
+      "lat": 13.474643,
+      "lon": 144.74103,
+      "elevation": null,
+      "country": "GU",
+      "municipality": "Agana Heights",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "GU-0004",
+      "iata": null,
+      "icao": null,
+      "name": "Big Eye Heliport",
+      "type": "closed",
+      "lat": 13.4981,
+      "lon": 144.804993,
+      "elevation": 80,
+      "country": "GU",
+      "municipality": "Hagatña",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "PGUA",
+      "iata": "UAM",
+      "icao": "PGUA",
+      "name": "Andersen Air Force Base",
+      "type": "medium_airport",
+      "lat": 13.584,
+      "lon": 144.929998,
+      "elevation": 627,
+      "country": "GU",
+      "municipality": "Yigo",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "PGUM",
+      "iata": "GUM",
+      "icao": "PGUM",
+      "name": "Antonio B. Won Pat International Airport",
+      "type": "large_airport",
+      "lat": 13.485,
+      "lon": 144.797282,
+      "elevation": 298,
+      "country": "GU",
+      "municipality": "Hagåtña",
+      "scheduledService": "yes"
+    }
+  ]
+}

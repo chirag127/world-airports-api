@@ -1,0 +1,71 @@
+{
+  "generatedFrom": "https://davidmegginson.github.io/ourairports-data/airports.csv",
+  "count": 5,
+  "records": [
+    {
+      "ident": "MO-0001",
+      "iata": null,
+      "icao": null,
+      "name": "Conde S. Januário Hospital Heliport",
+      "type": "heliport",
+      "lat": 22.194657,
+      "lon": 113.546807,
+      "elevation": null,
+      "country": "MO",
+      "municipality": "Sé",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "MO-0002",
+      "iata": null,
+      "icao": null,
+      "name": "Macau Heliport at Taipa Ferry Terminal",
+      "type": "heliport",
+      "lat": 22.166616,
+      "lon": 113.577416,
+      "elevation": null,
+      "country": "MO",
+      "municipality": "Nossa Senhora do Carmo",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "MO-0003",
+      "iata": null,
+      "icao": null,
+      "name": "SkyTech Heliport",
+      "type": "heliport",
+      "lat": 22.165493,
+      "lon": 113.582668,
+      "elevation": null,
+      "country": "MO",
+      "municipality": "Nossa Senhora do Carmo",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "VMMC",
+      "iata": "MFM",
+      "icao": "VMMC",
+      "name": "Macau International Airport",
+      "type": "large_airport",
+      "lat": 22.149599,
+      "lon": 113.592003,
+      "elevation": 20,
+      "country": "MO",
+      "municipality": "Nossa Senhora do Carmo",
+      "scheduledService": "yes"
+    },
+    {
+      "ident": "XZM",
+      "iata": "XZM",
+      "icao": null,
+      "name": "Macau Heliport at Outer Harbour Ferry Terminal",
+      "type": "heliport",
+      "lat": 22.196242,
+      "lon": 113.55936,
+      "elevation": null,
+      "country": "MO",
+      "municipality": "Sé",
+      "scheduledService": "no"
+    }
+  ]
+}

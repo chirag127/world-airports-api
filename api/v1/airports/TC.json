@@ -1,0 +1,123 @@
+{
+  "generatedFrom": "https://davidmegginson.github.io/ourairports-data/airports.csv",
+  "count": 9,
+  "records": [
+    {
+      "ident": "MBAC",
+      "iata": null,
+      "icao": "MBAC",
+      "name": "Harold Charles International Airport",
+      "type": "small_airport",
+      "lat": 21.302649,
+      "lon": -71.637168,
+      "elevation": 9,
+      "country": "TC",
+      "municipality": "Big Ambergris Cay",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "MBGT",
+      "iata": "GDT",
+      "icao": "MBGT",
+      "name": "JAGS McCartney International Airport",
+      "type": "medium_airport",
+      "lat": 21.4445,
+      "lon": -71.142303,
+      "elevation": 13,
+      "country": "TC",
+      "municipality": "Cockburn Town",
+      "scheduledService": "yes"
+    },
+    {
+      "ident": "MBMC",
+      "iata": "MDS",
+      "icao": "MBMC",
+      "name": "Middle Caicos Airport",
+      "type": "small_airport",
+      "lat": 21.82602,
+      "lon": -71.8025,
+      "elevation": 9,
+      "country": "TC",
+      "municipality": "Middle Caicos",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "MBNC",
+      "iata": "NCA",
+      "icao": "MBNC",
+      "name": "North Caicos Airport",
+      "type": "medium_airport",
+      "lat": 21.916094,
+      "lon": -71.942954,
+      "elevation": 10,
+      "country": "TC",
+      "municipality": "North Caicos",
+      "scheduledService": "yes"
+    },
+    {
+      "ident": "MBPI",
+      "iata": "PIC",
+      "icao": "MBPI",
+      "name": "Pine Cay Airport",
+      "type": "small_airport",
+      "lat": 21.874661,
+      "lon": -72.090573,
+      "elevation": 3,
+      "country": "TC",
+      "municipality": "Pine Cay",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "MBPV",
+      "iata": "PLS",
+      "icao": "MBPV",
+      "name": "Providenciales International Airport",
+      "type": "large_airport",
+      "lat": 21.773697,
+      "lon": -72.268321,
+      "elevation": 15,
+      "country": "TC",
+      "municipality": "Providenciales",
+      "scheduledService": "yes"
+    },
+    {
+      "ident": "MBSC",
+      "iata": "XSC",
+      "icao": "MBSC",
+      "name": "South Caicos Airport",
+      "type": "medium_airport",
+      "lat": 21.515699,
+      "lon": -71.528503,
+      "elevation": 6,
+      "country": "TC",
+      "municipality": "South Caicos",
+      "scheduledService": "yes"
+    },
+    {
+      "ident": "MBSY",
+      "iata": "SLX",
+      "icao": "MBSY",
+      "name": "Salt Cay Airport",
+      "type": "small_airport",
+      "lat": 21.333000183099998,
+      "lon": -71.1999969482,
+      "elevation": 3,
+      "country": "TC",
+      "municipality": "Salt Cay",
+      "scheduledService": "yes"
+    },
+    {
+      "ident": "TC-0001",
+      "iata": null,
+      "icao": null,
+      "name": "West Caicos Airport",
+      "type": "small_airport",
+      "lat": 21.68178,
+      "lon": -72.46157,
+      "elevation": null,
+      "country": "TC",
+      "municipality": "Yankee Town",
+      "scheduledService": "no"
+    }
+  ]
+}

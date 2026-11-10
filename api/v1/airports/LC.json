@@ -1,0 +1,32 @@
+{
+  "generatedFrom": "https://davidmegginson.github.io/ourairports-data/airports.csv",
+  "count": 2,
+  "records": [
+    {
+      "ident": "TLPC",
+      "iata": "SLU",
+      "icao": "TLPC",
+      "name": "George F. L. Charles Airport",
+      "type": "medium_airport",
+      "lat": 14.0202,
+      "lon": -60.992901,
+      "elevation": 22,
+      "country": "LC",
+      "municipality": "Castries",
+      "scheduledService": "yes"
+    },
+    {
+      "ident": "TLPL",
+      "iata": "UVF",
+      "icao": "TLPL",
+      "name": "Hewanorra International Airport",
+      "type": "large_airport",
+      "lat": 13.7332,
+      "lon": -60.952599,
+      "elevation": 14,
+      "country": "LC",
+      "municipality": "Vieux Fort",
+      "scheduledService": "yes"
+    }
+  ]
+}

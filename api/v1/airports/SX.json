@@ -1,0 +1,19 @@
+{
+  "generatedFrom": "https://davidmegginson.github.io/ourairports-data/airports.csv",
+  "count": 1,
+  "records": [
+    {
+      "ident": "TNCM",
+      "iata": "SXM",
+      "icao": "TNCM",
+      "name": "Princess Juliana International Airport",
+      "type": "large_airport",
+      "lat": 18.041,
+      "lon": -63.108898,
+      "elevation": 13,
+      "country": "SX",
+      "municipality": "Sint Maarten",
+      "scheduledService": "yes"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "generatedFrom": "https://davidmegginson.github.io/ourairports-data/airports.csv",
+  "count": 2,
+  "records": [
+    {
+      "ident": "TBPB",
+      "iata": "BGI",
+      "icao": "TBPB",
+      "name": "Grantley Adams International Airport",
+      "type": "large_airport",
+      "lat": 13.074667,
+      "lon": -59.491034,
+      "elevation": 169,
+      "country": "BB",
+      "municipality": "Bridgetown",
+      "scheduledService": "yes"
+    },
+    {
+      "ident": "TBPO",
+      "iata": null,
+      "icao": "TBPO",
+      "name": "Bridgetown Heliport",
+      "type": "heliport",
+      "lat": 13.095833,
+      "lon": -59.618611,
+      "elevation": null,
+      "country": "BB",
+      "municipality": null,
+      "scheduledService": "no"
+    }
+  ]
+}

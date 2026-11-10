@@ -1,0 +1,19 @@
+{
+  "generatedFrom": "https://davidmegginson.github.io/ourairports-data/airports.csv",
+  "count": 1,
+  "records": [
+    {
+      "ident": "TNCC",
+      "iata": "CUR",
+      "icao": "TNCC",
+      "name": "Hato International Airport",
+      "type": "large_airport",
+      "lat": 12.1889,
+      "lon": -68.959801,
+      "elevation": 29,
+      "country": "CW",
+      "municipality": "Willemstad",
+      "scheduledService": "yes"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "generatedFrom": "https://davidmegginson.github.io/ourairports-data/airports.csv",
+  "count": 7,
+  "records": [
+    {
+      "ident": "BI-0001",
+      "iata": null,
+      "icao": null,
+      "name": "Ruyigi Airport",
+      "type": "small_airport",
+      "lat": -3.471371,
+      "lon": 30.231485,
+      "elevation": 5194,
+      "country": "BI",
+      "municipality": "Ruyigi",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "BI-0002",
+      "iata": null,
+      "icao": null,
+      "name": "Mwumba Airport",
+      "type": "small_airport",
+      "lat": -2.879447,
+      "lon": 29.832178,
+      "elevation": null,
+      "country": "BI",
+      "municipality": "Ngozi",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "BI-0003",
+      "iata": null,
+      "icao": null,
+      "name": "Nyanza-Lac Airport",
+      "type": "closed",
+      "lat": -4.339434,
+      "lon": 29.598245,
+      "elevation": 2559,
+      "country": "BI",
+      "municipality": "Nyanza-Lac",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "HBBA",
+      "iata": "BJM",
+      "icao": "HBBA",
+      "name": "Bujumbura Melchior Ndadaye International Airport",
+      "type": "large_airport",
+      "lat": -3.32402,
+      "lon": 29.318501,
+      "elevation": 2582,
+      "country": "BI",
+      "municipality": "Bujumbura",
+      "scheduledService": "yes"
+    },
+    {
+      "ident": "HBBE",
+      "iata": "GID",
+      "icao": "HBBE",
+      "name": "Gitega Airport",
+      "type": "medium_airport",
+      "lat": -3.417209,
+      "lon": 29.911308,
+      "elevation": 5741,
+      "country": "BI",
+      "municipality": "Gitega",
+      "scheduledService": "yes"
+    },
+    {
+      "ident": "HBBK",
+      "iata": null,
+      "icao": "HBBK",
+      "name": "Gihohi Airport",
+      "type": "small_airport",
+      "lat": -4.0342,
+      "lon": 30.1318,
+      "elevation": 4065,
+      "country": "BI",
+      "municipality": "Gihohi",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "HBBO",
+      "iata": "KRE",
+      "icao": "HBBO",
+      "name": "Kirundo Airport",
+      "type": "small_airport",
+      "lat": -2.544772,
+      "lon": 30.094575,
+      "elevation": 4511,
+      "country": "BI",
+      "municipality": "Kirundo",
+      "scheduledService": "yes"
+    }
+  ]
+}

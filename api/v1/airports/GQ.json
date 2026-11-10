@@ -1,0 +1,110 @@
+{
+  "generatedFrom": "https://davidmegginson.github.io/ourairports-data/airports.csv",
+  "count": 8,
+  "records": [
+    {
+      "ident": "FGAB",
+      "iata": "NBN",
+      "icao": "FGAN",
+      "name": "Annobón Airport",
+      "type": "small_airport",
+      "lat": -1.408615,
+      "lon": 5.624163,
+      "elevation": 82,
+      "country": "GQ",
+      "municipality": "San Antonio de Palé",
+      "scheduledService": "yes"
+    },
+    {
+      "ident": "FGBT",
+      "iata": "BSG",
+      "icao": "FGBT",
+      "name": "Bata International Airport",
+      "type": "large_airport",
+      "lat": 1.90547,
+      "lon": 9.80568,
+      "elevation": 13,
+      "country": "GQ",
+      "municipality": "Bata",
+      "scheduledService": "yes"
+    },
+    {
+      "ident": "FGMY",
+      "iata": "GEM",
+      "icao": "FGMY",
+      "name": "President Obiang Nguema International Airport",
+      "type": "medium_airport",
+      "lat": 1.676437,
+      "lon": 11.024904,
+      "elevation": 2165,
+      "country": "GQ",
+      "municipality": "Mengomeyén",
+      "scheduledService": "yes"
+    },
+    {
+      "ident": "FGSL",
+      "iata": "SSG",
+      "icao": "FGSL",
+      "name": "Malabo International Airport",
+      "type": "large_airport",
+      "lat": 3.75527,
+      "lon": 8.70872,
+      "elevation": 76,
+      "country": "GQ",
+      "municipality": "Malabo",
+      "scheduledService": "yes"
+    },
+    {
+      "ident": "GQ-0001",
+      "iata": null,
+      "icao": null,
+      "name": "Mongomo Airport",
+      "type": "small_airport",
+      "lat": 1.636763,
+      "lon": 11.302458,
+      "elevation": 2126,
+      "country": "GQ",
+      "municipality": "Mongomo",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "GQ-0002",
+      "iata": null,
+      "icao": null,
+      "name": "La Paz Medical Center Heliport",
+      "type": "heliport",
+      "lat": 1.841745,
+      "lon": 9.801897,
+      "elevation": 99,
+      "country": "GQ",
+      "municipality": "Bata",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "MDV",
+      "iata": "MDV",
+      "icao": null,
+      "name": "Médouneu Airport",
+      "type": "small_airport",
+      "lat": 1.0085,
+      "lon": 10.7552,
+      "elevation": 2100,
+      "country": "GQ",
+      "municipality": "Médouneu, Gabon",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "OCS",
+      "iata": "OCS",
+      "icao": "FGCO",
+      "name": "Corisco International Airport",
+      "type": "large_airport",
+      "lat": 0.910937,
+      "lon": 9.33027,
+      "elevation": 55,
+      "country": "GQ",
+      "municipality": "Corisco Island",
+      "scheduledService": "yes"
+    }
+  ]
+}

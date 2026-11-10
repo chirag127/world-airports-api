@@ -1,0 +1,19 @@
+{
+  "generatedFrom": "https://davidmegginson.github.io/ourairports-data/airports.csv",
+  "count": 1,
+  "records": [
+    {
+      "ident": "YPCC",
+      "iata": "CCK",
+      "icao": "YPCC",
+      "name": "Cocos (Keeling) Islands Airport",
+      "type": "large_airport",
+      "lat": -12.192218,
+      "lon": 96.834103,
+      "elevation": 10,
+      "country": "CC",
+      "municipality": "West Island",
+      "scheduledService": "yes"
+    }
+  ]
+}

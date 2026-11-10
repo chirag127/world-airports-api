@@ -1,0 +1,32 @@
+{
+  "generatedFrom": "https://davidmegginson.github.io/ourairports-data/airports.csv",
+  "count": 2,
+  "records": [
+    {
+      "ident": "EGJJ",
+      "iata": "JER",
+      "icao": "EGJJ",
+      "name": "Jersey Airport",
+      "type": "medium_airport",
+      "lat": 49.207901,
+      "lon": -2.19551,
+      "elevation": 277,
+      "country": "JE",
+      "municipality": "St. Peter",
+      "scheduledService": "yes"
+    },
+    {
+      "ident": "JE-0001",
+      "iata": null,
+      "icao": null,
+      "name": "St Aubin's Bay Airfield",
+      "type": "closed",
+      "lat": 49.1875,
+      "lon": -2.1706,
+      "elevation": 98,
+      "country": "JE",
+      "municipality": "St. Helier",
+      "scheduledService": "no"
+    }
+  ]
+}

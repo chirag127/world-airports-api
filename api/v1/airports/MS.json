@@ -1,0 +1,32 @@
+{
+  "generatedFrom": "https://davidmegginson.github.io/ourairports-data/airports.csv",
+  "count": 2,
+  "records": [
+    {
+      "ident": "MS-0001",
+      "iata": null,
+      "icao": null,
+      "name": "W H Bramble Airport",
+      "type": "closed",
+      "lat": 16.7589,
+      "lon": -62.156399,
+      "elevation": 72,
+      "country": "MS",
+      "municipality": "Trants",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "TRPG",
+      "iata": "MNI",
+      "icao": "TRPG",
+      "name": "John A. Osborne Airport",
+      "type": "large_airport",
+      "lat": 16.791835,
+      "lon": -62.193204,
+      "elevation": 550,
+      "country": "MS",
+      "municipality": "Gerald's Park",
+      "scheduledService": "yes"
+    }
+  ]
+}

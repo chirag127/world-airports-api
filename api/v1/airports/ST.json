@@ -1,0 +1,58 @@
+{
+  "generatedFrom": "https://davidmegginson.github.io/ourairports-data/airports.csv",
+  "count": 4,
+  "records": [
+    {
+      "ident": "FPPR",
+      "iata": "PCP",
+      "icao": "FPPR",
+      "name": "Principe Airport",
+      "type": "medium_airport",
+      "lat": 1.661155,
+      "lon": 7.411081,
+      "elevation": 591,
+      "country": "ST",
+      "municipality": "São Tomé & Príncipe",
+      "scheduledService": "yes"
+    },
+    {
+      "ident": "FPST",
+      "iata": "TMS",
+      "icao": "FPST",
+      "name": "São Tomé International Airport",
+      "type": "large_airport",
+      "lat": 0.378175,
+      "lon": 6.71215,
+      "elevation": 33,
+      "country": "ST",
+      "municipality": "São Tomé",
+      "scheduledService": "yes"
+    },
+    {
+      "ident": "ST-0001",
+      "iata": null,
+      "icao": null,
+      "name": "Santo Antonio Seaport",
+      "type": "seaplane_base",
+      "lat": 1.63777,
+      "lon": 7.417778,
+      "elevation": null,
+      "country": "ST",
+      "municipality": "Santo Antonio",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "ST-0002",
+      "iata": null,
+      "icao": null,
+      "name": "Roça Porto Alegre Airport",
+      "type": "closed",
+      "lat": 0.038624,
+      "lon": 6.515965,
+      "elevation": 32,
+      "country": "ST",
+      "municipality": "Porto Alegro",
+      "scheduledService": "no"
+    }
+  ]
+}

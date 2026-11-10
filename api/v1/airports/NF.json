@@ -1,0 +1,19 @@
+{
+  "generatedFrom": "https://davidmegginson.github.io/ourairports-data/airports.csv",
+  "count": 1,
+  "records": [
+    {
+      "ident": "YSNF",
+      "iata": "NLK",
+      "icao": "YSNF",
+      "name": "Norfolk Island International Airport",
+      "type": "medium_airport",
+      "lat": -29.041759,
+      "lon": 167.939474,
+      "elevation": 371,
+      "country": "NF",
+      "municipality": "Burnt Pine",
+      "scheduledService": "yes"
+    }
+  ]
+}

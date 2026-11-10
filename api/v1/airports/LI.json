@@ -1,0 +1,32 @@
+{
+  "generatedFrom": "https://davidmegginson.github.io/ourairports-data/airports.csv",
+  "count": 2,
+  "records": [
+    {
+      "ident": "LI-0001",
+      "iata": null,
+      "icao": null,
+      "name": "Liechtenstein Hospital Helipad",
+      "type": "heliport",
+      "lat": 47.134773,
+      "lon": 9.522753,
+      "elevation": 1580,
+      "country": "LI",
+      "municipality": "Vaduz",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "LSXB",
+      "iata": null,
+      "icao": "LSXB",
+      "name": "Balzers Heliport",
+      "type": "heliport",
+      "lat": 47.067908,
+      "lon": 9.480774,
+      "elevation": 1585,
+      "country": "LI",
+      "municipality": "Balzers",
+      "scheduledService": "no"
+    }
+  ]
+}

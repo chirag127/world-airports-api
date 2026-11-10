@@ -1,0 +1,32 @@
+{
+  "generatedFrom": "https://davidmegginson.github.io/ourairports-data/airports.csv",
+  "count": 2,
+  "records": [
+    {
+      "ident": "NLWF",
+      "iata": "FUT",
+      "icao": "NLWF",
+      "name": "Pointe Vele Airport",
+      "type": "small_airport",
+      "lat": -14.311565,
+      "lon": -178.066492,
+      "elevation": 20,
+      "country": "WF",
+      "municipality": "Futuna Island",
+      "scheduledService": "yes"
+    },
+    {
+      "ident": "NLWW",
+      "iata": "WLS",
+      "icao": "NLWW",
+      "name": "Hihifo Airport",
+      "type": "large_airport",
+      "lat": -13.239445,
+      "lon": -176.19865,
+      "elevation": 79,
+      "country": "WF",
+      "municipality": "Wallis Island",
+      "scheduledService": "yes"
+    }
+  ]
+}

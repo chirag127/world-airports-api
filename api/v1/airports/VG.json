@@ -1,0 +1,110 @@
+{
+  "generatedFrom": "https://davidmegginson.github.io/ourairports-data/airports.csv",
+  "count": 8,
+  "records": [
+    {
+      "ident": "TOV",
+      "iata": "TOV",
+      "icao": null,
+      "name": "Tortola West End Seaplane Base",
+      "type": "seaplane_base",
+      "lat": 18.45,
+      "lon": -64.583333,
+      "elevation": null,
+      "country": "VG",
+      "municipality": "Tortola",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "TUPA",
+      "iata": "NGD",
+      "icao": "TUPA",
+      "name": "Captain Auguste George Airport",
+      "type": "small_airport",
+      "lat": 18.727734,
+      "lon": -64.32852,
+      "elevation": 9,
+      "country": "VG",
+      "municipality": "Anegada",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "TUPG",
+      "iata": null,
+      "icao": "TUPG",
+      "name": "Virgin Gorda North Sound Water Aerodrome",
+      "type": "seaplane_base",
+      "lat": 18.5,
+      "lon": -64.386,
+      "elevation": null,
+      "country": "VG",
+      "municipality": "Virgin Gorda",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "TUPJ",
+      "iata": "EIS",
+      "icao": "TUPJ",
+      "name": "Terrance B. Lettsome International Airport",
+      "type": "large_airport",
+      "lat": 18.445492,
+      "lon": -64.541707,
+      "elevation": 15,
+      "country": "VG",
+      "municipality": "Beef Island",
+      "scheduledService": "yes"
+    },
+    {
+      "ident": "TUPW",
+      "iata": "VIJ",
+      "icao": "TUPW",
+      "name": "Virgin Gorda Airport",
+      "type": "medium_airport",
+      "lat": 18.446634,
+      "lon": -64.427932,
+      "elevation": 9,
+      "country": "VG",
+      "municipality": "Spanish Town",
+      "scheduledService": "yes"
+    },
+    {
+      "ident": "VG-0001",
+      "iata": null,
+      "icao": null,
+      "name": "Eustatia Heliport",
+      "type": "heliport",
+      "lat": 18.509,
+      "lon": -64.359537,
+      "elevation": 20,
+      "country": "VG",
+      "municipality": "Spanish Town",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "VG-0002",
+      "iata": "RAD",
+      "icao": null,
+      "name": "Road Town Seaplane Base",
+      "type": "seaplane_base",
+      "lat": 18.418273,
+      "lon": -64.617369,
+      "elevation": 0,
+      "country": "VG",
+      "municipality": "Tortola",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "VG-0003",
+      "iata": null,
+      "icao": null,
+      "name": "Dr. D Orlando Smith Hospital Heliport",
+      "type": "heliport",
+      "lat": 18.41726,
+      "lon": -64.61737,
+      "elevation": 3,
+      "country": "VG",
+      "municipality": "Road Town",
+      "scheduledService": "no"
+    }
+  ]
+}

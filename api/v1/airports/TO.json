@@ -1,0 +1,84 @@
+{
+  "generatedFrom": "https://davidmegginson.github.io/ourairports-data/airports.csv",
+  "count": 6,
+  "records": [
+    {
+      "ident": "NFTE",
+      "iata": "EUA",
+      "icao": "NFTE",
+      "name": "Kaufana Airport",
+      "type": "small_airport",
+      "lat": -21.378299713100002,
+      "lon": -174.957992554,
+      "elevation": 325,
+      "country": "TO",
+      "municipality": "Eua Island",
+      "scheduledService": "yes"
+    },
+    {
+      "ident": "NFTF",
+      "iata": "TBU",
+      "icao": "NFTF",
+      "name": "Fua'amotu International Airport",
+      "type": "large_airport",
+      "lat": -21.241438,
+      "lon": -175.149164,
+      "elevation": 126,
+      "country": "TO",
+      "municipality": "Nuku'alofa",
+      "scheduledService": "yes"
+    },
+    {
+      "ident": "NFTL",
+      "iata": "HPA",
+      "icao": "NFTL",
+      "name": "Lifuka Island Airport",
+      "type": "medium_airport",
+      "lat": -19.777000427246094,
+      "lon": -174.34100341796875,
+      "elevation": 31,
+      "country": "TO",
+      "municipality": "Lifuka",
+      "scheduledService": "yes"
+    },
+    {
+      "ident": "NFTO",
+      "iata": "NFO",
+      "icao": "NFTO",
+      "name": "Mata'aho Airport",
+      "type": "small_airport",
+      "lat": -15.570603,
+      "lon": -175.631283,
+      "elevation": 160,
+      "country": "TO",
+      "municipality": "Angaha, Niuafo'ou Island",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "NFTP",
+      "iata": "NTT",
+      "icao": "NFTP",
+      "name": "Kuini Lavenia Airport",
+      "type": "small_airport",
+      "lat": -15.977297,
+      "lon": -173.791089,
+      "elevation": 30,
+      "country": "TO",
+      "municipality": "Niuatoputapu",
+      "scheduledService": "yes"
+    },
+    {
+      "ident": "NFTV",
+      "iata": "VAV",
+      "icao": "NFTV",
+      "name": "Vava'u International Airport",
+      "type": "large_airport",
+      "lat": -18.5853,
+      "lon": -173.962006,
+      "elevation": 236,
+      "country": "TO",
+      "municipality": "Vava'u Island",
+      "scheduledService": "yes"
+    }
+  ]
+}

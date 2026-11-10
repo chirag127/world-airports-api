@@ -1,0 +1,123 @@
+{
+  "generatedFrom": "https://davidmegginson.github.io/ourairports-data/airports.csv",
+  "count": 9,
+  "records": [
+    {
+      "ident": "LMMG",
+      "iata": "GZM",
+      "icao": "LMMG",
+      "name": "Xewkija Heliport",
+      "type": "heliport",
+      "lat": 36.027199,
+      "lon": 14.2728,
+      "elevation": 322,
+      "country": "MT",
+      "municipality": "Gozo",
+      "scheduledService": "yes"
+    },
+    {
+      "ident": "LMML",
+      "iata": "MLA",
+      "icao": "LMML",
+      "name": "Malta International Airport",
+      "type": "large_airport",
+      "lat": 35.845932,
+      "lon": 14.491546,
+      "elevation": 300,
+      "country": "MT",
+      "municipality": "Valletta",
+      "scheduledService": "yes"
+    },
+    {
+      "ident": "MT-0001",
+      "iata": null,
+      "icao": null,
+      "name": "RAF Hal Far",
+      "type": "closed",
+      "lat": 35.81333,
+      "lon": 14.513379,
+      "elevation": 235,
+      "country": "MT",
+      "municipality": null,
+      "scheduledService": "no"
+    },
+    {
+      "ident": "MT-0002",
+      "iata": null,
+      "icao": null,
+      "name": "RAF Safi",
+      "type": "closed",
+      "lat": 35.839985,
+      "lon": 14.494478,
+      "elevation": null,
+      "country": "MT",
+      "municipality": "Safi",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "MT-0003",
+      "iata": null,
+      "icao": null,
+      "name": "Ta' Qali",
+      "type": "closed",
+      "lat": 35.896914,
+      "lon": 14.418733,
+      "elevation": null,
+      "country": "MT",
+      "municipality": null,
+      "scheduledService": "no"
+    },
+    {
+      "ident": "MT-0004",
+      "iata": null,
+      "icao": null,
+      "name": "RAF Krendi",
+      "type": "closed",
+      "lat": 35.835423,
+      "lon": 14.435584,
+      "elevation": null,
+      "country": "MT",
+      "municipality": "Qrendi",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "MT-0005",
+      "iata": null,
+      "icao": null,
+      "name": "Marsa Airfield",
+      "type": "closed",
+      "lat": 35.876926,
+      "lon": 14.489352,
+      "elevation": null,
+      "country": "MT",
+      "municipality": "Marsa",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "MT-0006",
+      "iata": null,
+      "icao": null,
+      "name": "Ta' Lambert Airfield",
+      "type": "closed",
+      "lat": 36.03082,
+      "lon": 14.264878,
+      "elevation": 328,
+      "country": "MT",
+      "municipality": "Xewkija",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "MT-0007",
+      "iata": "JCO",
+      "icao": null,
+      "name": "Comino Heliport",
+      "type": "heliport",
+      "lat": 36.01007,
+      "lon": 14.347306,
+      "elevation": 213,
+      "country": "MT",
+      "municipality": "Comino",
+      "scheduledService": "no"
+    }
+  ]
+}

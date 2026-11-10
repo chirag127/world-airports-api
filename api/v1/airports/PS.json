@@ -1,0 +1,97 @@
+{
+  "generatedFrom": "https://davidmegginson.github.io/ourairports-data/airports.csv",
+  "count": 7,
+  "records": [
+    {
+      "ident": "PS-0001",
+      "iata": null,
+      "icao": null,
+      "name": "Jurish Highway Strip H",
+      "type": "closed",
+      "lat": 32.098363,
+      "lon": 35.345356,
+      "elevation": null,
+      "country": "PS",
+      "municipality": "Jurish",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "PS-0002",
+      "iata": null,
+      "icao": null,
+      "name": "Muqeible Airfield",
+      "type": "closed",
+      "lat": 32.503056,
+      "lon": 35.289167,
+      "elevation": null,
+      "country": "PS",
+      "municipality": "Jenin",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "PS-0003",
+      "iata": null,
+      "icao": null,
+      "name": "Bethlehem Heliport",
+      "type": "heliport",
+      "lat": 31.695021,
+      "lon": 35.188522,
+      "elevation": null,
+      "country": "PS",
+      "municipality": "Dheisheh",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "PS-0004",
+      "iata": null,
+      "icao": null,
+      "name": "RAF Gaza",
+      "type": "closed",
+      "lat": 31.472586,
+      "lon": 34.478874,
+      "elevation": null,
+      "country": "PS",
+      "municipality": null,
+      "scheduledService": "no"
+    },
+    {
+      "ident": "PS-0005",
+      "iata": null,
+      "icao": null,
+      "name": "Gush Katif Airport",
+      "type": "closed",
+      "lat": 31.36705,
+      "lon": 34.29451,
+      "elevation": 112,
+      "country": "PS",
+      "municipality": "Khan Yunis",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "PS-0006",
+      "iata": null,
+      "icao": null,
+      "name": "Yasser Arafat International Airport",
+      "type": "closed",
+      "lat": 31.246401,
+      "lon": 34.2761,
+      "elevation": 320,
+      "country": "PS",
+      "municipality": "Gaza",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "ZDM",
+      "iata": "ZDM",
+      "icao": null,
+      "name": "Ramallah Heliport",
+      "type": "heliport",
+      "lat": 31.91123,
+      "lon": 35.20756,
+      "elevation": 2858,
+      "country": "PS",
+      "municipality": "Ramallah",
+      "scheduledService": "no"
+    }
+  ]
+}

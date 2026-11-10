@@ -1,0 +1,71 @@
+{
+  "generatedFrom": "https://davidmegginson.github.io/ourairports-data/airports.csv",
+  "count": 5,
+  "records": [
+    {
+      "ident": "EGJA",
+      "iata": "ACI",
+      "icao": "EGJA",
+      "name": "Alderney Airport",
+      "type": "medium_airport",
+      "lat": 49.706104,
+      "lon": -2.21472,
+      "elevation": 290,
+      "country": "GG",
+      "municipality": "Saint Anne",
+      "scheduledService": "yes"
+    },
+    {
+      "ident": "EGJB",
+      "iata": "GCI",
+      "icao": "EGJB",
+      "name": "Guernsey Airport",
+      "type": "medium_airport",
+      "lat": 49.435001,
+      "lon": -2.60197,
+      "elevation": 336,
+      "country": "GG",
+      "municipality": "Saint Peter Port",
+      "scheduledService": "yes"
+    },
+    {
+      "ident": "GG-0001",
+      "iata": null,
+      "icao": null,
+      "name": "L'Erée Aerodrome",
+      "type": "closed",
+      "lat": 49.456424,
+      "lon": -2.648456,
+      "elevation": null,
+      "country": "GG",
+      "municipality": "L'Erée",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "GG-0002",
+      "iata": null,
+      "icao": null,
+      "name": "Jethou Private Heliport",
+      "type": "heliport",
+      "lat": 49.45857,
+      "lon": -2.46263,
+      "elevation": 210,
+      "country": "GG",
+      "municipality": "Jethou",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "GG-0003",
+      "iata": null,
+      "icao": null,
+      "name": "Brecqhou Residences Helipad",
+      "type": "heliport",
+      "lat": 49.43365,
+      "lon": -2.38607,
+      "elevation": null,
+      "country": "GG",
+      "municipality": "Brecqhou",
+      "scheduledService": "no"
+    }
+  ]
+}

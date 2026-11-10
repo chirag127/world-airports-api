@@ -1,0 +1,45 @@
+{
+  "generatedFrom": "https://davidmegginson.github.io/ourairports-data/airports.csv",
+  "count": 3,
+  "records": [
+    {
+      "ident": "KN-0001",
+      "iata": null,
+      "icao": null,
+      "name": "Royal St. Kitts Heliport",
+      "type": "heliport",
+      "lat": 17.291017,
+      "lon": -62.689065,
+      "elevation": null,
+      "country": "KN",
+      "municipality": "Lucas",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "TKPK",
+      "iata": "SKB",
+      "icao": "TKPK",
+      "name": "Robert L. Bradshaw International Airport",
+      "type": "large_airport",
+      "lat": 17.310845,
+      "lon": -62.719117,
+      "elevation": 170,
+      "country": "KN",
+      "municipality": "Basseterre",
+      "scheduledService": "yes"
+    },
+    {
+      "ident": "TKPN",
+      "iata": "NEV",
+      "icao": "TKPN",
+      "name": "Vance W. Amory International Airport",
+      "type": "medium_airport",
+      "lat": 17.2057,
+      "lon": -62.589901,
+      "elevation": 14,
+      "country": "KN",
+      "municipality": "Charlestown",
+      "scheduledService": "yes"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "generatedFrom": "https://davidmegginson.github.io/ourairports-data/airports.csv",
+  "count": 6,
+  "records": [
+    {
+      "ident": "AG-0001",
+      "iata": "BBQ",
+      "icao": "TAPB",
+      "name": "Burton-Nibbs International Airport",
+      "type": "medium_airport",
+      "lat": 17.621194,
+      "lon": -61.798347,
+      "elevation": 28,
+      "country": "AG",
+      "municipality": "Codrington",
+      "scheduledService": "yes"
+    },
+    {
+      "ident": "AG-0002",
+      "iata": null,
+      "icao": null,
+      "name": "Fort Road Heliport",
+      "type": "heliport",
+      "lat": 17.134275,
+      "lon": -61.857314,
+      "elevation": 13,
+      "country": "AG",
+      "municipality": "St John's",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "AG-0003",
+      "iata": null,
+      "icao": null,
+      "name": "Orange Valley Heliport",
+      "type": "heliport",
+      "lat": 17.04823,
+      "lon": -61.89073,
+      "elevation": 13,
+      "country": "AG",
+      "municipality": "Urlings",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "TAPA",
+      "iata": "ANU",
+      "icao": "TAPA",
+      "name": "V. C. Bird International Airport",
+      "type": "large_airport",
+      "lat": 17.1367,
+      "lon": -61.792702,
+      "elevation": 62,
+      "country": "AG",
+      "municipality": "Osbourn",
+      "scheduledService": "yes"
+    },
+    {
+      "ident": "TAPH",
+      "iata": null,
+      "icao": null,
+      "name": "Codrington Airport",
+      "type": "closed",
+      "lat": 17.636067,
+      "lon": -61.827175,
+      "elevation": 15,
+      "country": "AG",
+      "municipality": "Codrington",
+      "scheduledService": "yes"
+    },
+    {
+      "ident": "TAPT",
+      "iata": null,
+      "icao": "TAPT",
+      "name": "Coco Point Lodge Airstrip",
+      "type": "small_airport",
+      "lat": 17.555599,
+      "lon": -61.765301,
+      "elevation": 15,
+      "country": "AG",
+      "municipality": "Coco Point",
+      "scheduledService": "no"
+    }
+  ]
+}

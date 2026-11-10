@@ -1,0 +1,58 @@
+{
+  "generatedFrom": "https://davidmegginson.github.io/ourairports-data/airports.csv",
+  "count": 4,
+  "records": [
+    {
+      "ident": "BQ-0001",
+      "iata": null,
+      "icao": null,
+      "name": "Old Flamingo Airport",
+      "type": "closed",
+      "lat": 12.18637,
+      "lon": -68.26484,
+      "elevation": null,
+      "country": "BQ",
+      "municipality": "Kralendijk",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "TNCB",
+      "iata": "BON",
+      "icao": "TNCB",
+      "name": "Flamingo International Airport",
+      "type": "large_airport",
+      "lat": 12.131,
+      "lon": -68.268501,
+      "elevation": 20,
+      "country": "BQ",
+      "municipality": "Kralendijk",
+      "scheduledService": "yes"
+    },
+    {
+      "ident": "TNCE",
+      "iata": "EUX",
+      "icao": "TNCE",
+      "name": "F. D. Roosevelt Airport",
+      "type": "medium_airport",
+      "lat": 17.4965,
+      "lon": -62.979401,
+      "elevation": 129,
+      "country": "BQ",
+      "municipality": "Oranjestad",
+      "scheduledService": "yes"
+    },
+    {
+      "ident": "TNCS",
+      "iata": "SAB",
+      "icao": "TNCS",
+      "name": "Juancho E. Yrausquin Airport",
+      "type": "medium_airport",
+      "lat": 17.64533,
+      "lon": -63.220514,
+      "elevation": 60,
+      "country": "BQ",
+      "municipality": "Zion's Hill",
+      "scheduledService": "yes"
+    }
+  ]
+}

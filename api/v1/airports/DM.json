@@ -1,0 +1,45 @@
+{
+  "generatedFrom": "https://davidmegginson.github.io/ourairports-data/airports.csv",
+  "count": 3,
+  "records": [
+    {
+      "ident": "DM-0001",
+      "iata": null,
+      "icao": null,
+      "name": "Dominica International Airport (Under Construction)",
+      "type": "closed",
+      "lat": 15.572906,
+      "lon": -61.31357,
+      "elevation": null,
+      "country": "DM",
+      "municipality": "Wesley",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "TDCF",
+      "iata": "DCF",
+      "icao": "TDCF",
+      "name": "Canefield Airport",
+      "type": "medium_airport",
+      "lat": 15.336693,
+      "lon": -61.392108,
+      "elevation": 13,
+      "country": "DM",
+      "municipality": "Canefield",
+      "scheduledService": "yes"
+    },
+    {
+      "ident": "TDPD",
+      "iata": "DOM",
+      "icao": "TDPD",
+      "name": "Douglas-Charles Airport",
+      "type": "medium_airport",
+      "lat": 15.546673,
+      "lon": -61.301082,
+      "elevation": 73,
+      "country": "DM",
+      "municipality": "Marigot",
+      "scheduledService": "yes"
+    }
+  ]
+}

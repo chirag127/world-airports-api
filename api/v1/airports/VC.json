@@ -1,0 +1,84 @@
+{
+  "generatedFrom": "https://davidmegginson.github.io/ourairports-data/airports.csv",
+  "count": 6,
+  "records": [
+    {
+      "ident": "TVSA",
+      "iata": "SVD",
+      "icao": "TVSA",
+      "name": "Argyle International Airport",
+      "type": "large_airport",
+      "lat": 13.159725,
+      "lon": -61.148801,
+      "elevation": 136,
+      "country": "VC",
+      "municipality": "Kingstown",
+      "scheduledService": "yes"
+    },
+    {
+      "ident": "TVSB",
+      "iata": "BQU",
+      "icao": "TVSB",
+      "name": "J F Mitchell Airport",
+      "type": "medium_airport",
+      "lat": 12.9884,
+      "lon": -61.262001,
+      "elevation": 15,
+      "country": "VC",
+      "municipality": "Bequia",
+      "scheduledService": "yes"
+    },
+    {
+      "ident": "TVSC",
+      "iata": "CIW",
+      "icao": "TVSC",
+      "name": "Canouan Airport",
+      "type": "medium_airport",
+      "lat": 12.699,
+      "lon": -61.3424,
+      "elevation": 11,
+      "country": "VC",
+      "municipality": "Canouan",
+      "scheduledService": "yes"
+    },
+    {
+      "ident": "TVSM",
+      "iata": "MQS",
+      "icao": "TVSM",
+      "name": "Mustique Airport",
+      "type": "medium_airport",
+      "lat": 12.8879,
+      "lon": -61.180199,
+      "elevation": 8,
+      "country": "VC",
+      "municipality": "Lovell",
+      "scheduledService": "yes"
+    },
+    {
+      "ident": "TVSU",
+      "iata": "UNI",
+      "icao": "TVSU",
+      "name": "Union Island International Airport",
+      "type": "medium_airport",
+      "lat": 12.600135,
+      "lon": -61.411945,
+      "elevation": 16,
+      "country": "VC",
+      "municipality": "Union Island",
+      "scheduledService": "yes"
+    },
+    {
+      "ident": "VC-0001",
+      "iata": null,
+      "icao": null,
+      "name": "E T Joshua Airport",
+      "type": "closed",
+      "lat": 13.1443,
+      "lon": -61.210899,
+      "elevation": 66,
+      "country": "VC",
+      "municipality": "Arnos Vale",
+      "scheduledService": "no"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "generatedFrom": "https://davidmegginson.github.io/ourairports-data/airports.csv",
+  "count": 7,
+  "records": [
+    {
+      "ident": "FM-0001",
+      "iata": null,
+      "icao": null,
+      "name": "Woleai Atoll Airport",
+      "type": "small_airport",
+      "lat": 7.376259803771973,
+      "lon": 143.9080047607422,
+      "elevation": null,
+      "country": "FM",
+      "municipality": "Woleai Atoll",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "FM-0002",
+      "iata": null,
+      "icao": null,
+      "name": "HOUK (PULUSUK) CIVIL AIRFIELD",
+      "type": "small_airport",
+      "lat": 6.675669,
+      "lon": 149.299543,
+      "elevation": null,
+      "country": "FM",
+      "municipality": "Houk Island",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "FM-ULI",
+      "iata": "ULI",
+      "icao": "PTYU",
+      "name": "Ulithi Airport",
+      "type": "small_airport",
+      "lat": 10.0198,
+      "lon": 139.789993,
+      "elevation": 6,
+      "country": "FM",
+      "municipality": "Falalop Island",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "PTKK",
+      "iata": "TKK",
+      "icao": "PTKK",
+      "name": "Chuuk International Airport",
+      "type": "large_airport",
+      "lat": 7.46187,
+      "lon": 151.843002,
+      "elevation": 11,
+      "country": "FM",
+      "municipality": "Weno Island",
+      "scheduledService": "yes"
+    },
+    {
+      "ident": "PTPN",
+      "iata": "PNI",
+      "icao": "PTPN",
+      "name": "Pohnpei International Airport",
+      "type": "medium_airport",
+      "lat": 6.985082,
+      "lon": 158.20992,
+      "elevation": 10,
+      "country": "FM",
+      "municipality": "Pohnpei Island",
+      "scheduledService": "yes"
+    },
+    {
+      "ident": "PTSA",
+      "iata": "KSA",
+      "icao": "PTSA",
+      "name": "Kosrae International Airport",
+      "type": "large_airport",
+      "lat": 5.35698,
+      "lon": 162.957993,
+      "elevation": 11,
+      "country": "FM",
+      "municipality": "Okat",
+      "scheduledService": "yes"
+    },
+    {
+      "ident": "PTYA",
+      "iata": "YAP",
+      "icao": "PTYA",
+      "name": "Yap International Airport",
+      "type": "large_airport",
+      "lat": 9.49891,
+      "lon": 138.082993,
+      "elevation": 91,
+      "country": "FM",
+      "municipality": "Yap Island",
+      "scheduledService": "yes"
+    }
+  ]
+}

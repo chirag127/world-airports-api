@@ -1,0 +1,123 @@
+{
+  "generatedFrom": "https://davidmegginson.github.io/ourairports-data/airports.csv",
+  "count": 9,
+  "records": [
+    {
+      "ident": "LYBR",
+      "iata": "IVG",
+      "icao": "LYBR",
+      "name": "Berane Airport",
+      "type": "small_airport",
+      "lat": 42.8390007019043,
+      "lon": 19.86199951171875,
+      "elevation": 2287,
+      "country": "ME",
+      "municipality": "Berane",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "LYNK",
+      "iata": null,
+      "icao": "LYNK",
+      "name": "Nikšić Airfield",
+      "type": "small_airport",
+      "lat": 42.773039,
+      "lon": 18.916311,
+      "elevation": 2008,
+      "country": "ME",
+      "municipality": "Nikšić",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "LYPG",
+      "iata": "TGD",
+      "icao": "LYPG",
+      "name": "Podgorica Airport / Podgorica Golubovci Airbase",
+      "type": "large_airport",
+      "lat": 42.359402,
+      "lon": 19.2519,
+      "elevation": 141,
+      "country": "ME",
+      "municipality": "Podgorica",
+      "scheduledService": "yes"
+    },
+    {
+      "ident": "LYPO",
+      "iata": null,
+      "icao": "LYPO",
+      "name": "Ćemovsko Polje / Špiro Mugoša Airfield",
+      "type": "small_airport",
+      "lat": 42.422306,
+      "lon": 19.291018,
+      "elevation": 197,
+      "country": "ME",
+      "municipality": "Podgorica",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "LYTV",
+      "iata": "TIV",
+      "icao": "LYTV",
+      "name": "Tivat Airport",
+      "type": "medium_airport",
+      "lat": 42.404701,
+      "lon": 18.723301,
+      "elevation": 20,
+      "country": "ME",
+      "municipality": "Tivat",
+      "scheduledService": "yes"
+    },
+    {
+      "ident": "ME-0001",
+      "iata": null,
+      "icao": null,
+      "name": "Ulcinj Airport",
+      "type": "closed",
+      "lat": 41.88909,
+      "lon": 19.34169,
+      "elevation": 14,
+      "country": "ME",
+      "municipality": "Gornji Štoj",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "ME-0002",
+      "iata": null,
+      "icao": null,
+      "name": "Berane General Hospital Heliport",
+      "type": "heliport",
+      "lat": 42.85081,
+      "lon": 19.87042,
+      "elevation": 2203,
+      "country": "ME",
+      "municipality": "Berane",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "ME-0003",
+      "iata": null,
+      "icao": null,
+      "name": "Žabljak Airport",
+      "type": "closed",
+      "lat": 43.116669,
+      "lon": 19.233334,
+      "elevation": 4252,
+      "country": "ME",
+      "municipality": "Zminica",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "ME-0004",
+      "iata": null,
+      "icao": "LYBS",
+      "name": "Splendid Hotel Helipad",
+      "type": "heliport",
+      "lat": 42.282278,
+      "lon": 18.865537,
+      "elevation": 141,
+      "country": "ME",
+      "municipality": "Budva",
+      "scheduledService": "no"
+    }
+  ]
+}

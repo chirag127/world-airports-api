@@ -1,0 +1,58 @@
+{
+  "generatedFrom": "https://davidmegginson.github.io/ourairports-data/airports.csv",
+  "count": 4,
+  "records": [
+    {
+      "ident": "AW-0001",
+      "iata": null,
+      "icao": null,
+      "name": "Savaneta Field",
+      "type": "closed",
+      "lat": 12.452124,
+      "lon": -69.953427,
+      "elevation": null,
+      "country": "AW",
+      "municipality": "Savaneta",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "AW-0002",
+      "iata": null,
+      "icao": null,
+      "name": "Cascabel Airfield",
+      "type": "closed",
+      "lat": 12.454544,
+      "lon": -69.887499,
+      "elevation": null,
+      "country": "AW",
+      "municipality": "San Nicolas",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "AW-0003",
+      "iata": null,
+      "icao": null,
+      "name": "De Vuijst Field",
+      "type": "closed",
+      "lat": 12.4385,
+      "lon": -69.88641,
+      "elevation": null,
+      "country": "AW",
+      "municipality": "San Nicolas",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "TNCA",
+      "iata": "AUA",
+      "icao": "TNCA",
+      "name": "Queen Beatrix International Airport",
+      "type": "large_airport",
+      "lat": 12.501056,
+      "lon": -70.014281,
+      "elevation": 60,
+      "country": "AW",
+      "municipality": "Oranjestad",
+      "scheduledService": "yes"
+    }
+  ]
+}

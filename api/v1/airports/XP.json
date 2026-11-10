@@ -1,0 +1,123 @@
+{
+  "generatedFrom": "https://davidmegginson.github.io/ourairports-data/airports.csv",
+  "count": 9,
+  "records": [
+    {
+      "ident": "XP-0001",
+      "iata": null,
+      "icao": null,
+      "name": "Zhongjian Dao (Triton Island) Heliport",
+      "type": "heliport",
+      "lat": 15.782977,
+      "lon": 111.198893,
+      "elevation": null,
+      "country": "XP",
+      "municipality": "Triton Island",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "XP-0002",
+      "iata": null,
+      "icao": null,
+      "name": "Zhongjian Dao (Triton Island) Air Base",
+      "type": "small_airport",
+      "lat": 15.783471,
+      "lon": 111.20274,
+      "elevation": null,
+      "country": "XP",
+      "municipality": "Triton Island",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "XP-0003",
+      "iata": null,
+      "icao": null,
+      "name": "Yongxing Dao (Woody Island) Air Base",
+      "type": "small_airport",
+      "lat": 16.8328,
+      "lon": 112.344002,
+      "elevation": null,
+      "country": "XP",
+      "municipality": "Woody Island",
+      "scheduledService": "yes"
+    },
+    {
+      "ident": "XP-0004",
+      "iata": null,
+      "icao": null,
+      "name": "Chenhang Dao (Duncan Island) Heliport",
+      "type": "heliport",
+      "lat": 16.454206,
+      "lon": 111.706946,
+      "elevation": null,
+      "country": "XP",
+      "municipality": "Duncan Island",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "XP-0005",
+      "iata": null,
+      "icao": null,
+      "name": "Lingyang Jiao (Antelope Reef) Heliport",
+      "type": "heliport",
+      "lat": 16.44635,
+      "lon": 111.606529,
+      "elevation": null,
+      "country": "XP",
+      "municipality": "Antelope Reef",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "XP-0006",
+      "iata": null,
+      "icao": null,
+      "name": "Jinyin Dao (Money Island) Heliport",
+      "type": "heliport",
+      "lat": 16.447476,
+      "lon": 111.507111,
+      "elevation": 23,
+      "country": "XP",
+      "municipality": "Money Island",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "XP-0007",
+      "iata": null,
+      "icao": null,
+      "name": "Shanhu Dao (Pattle Island) Heliport",
+      "type": "heliport",
+      "lat": 16.535115,
+      "lon": 111.608675,
+      "elevation": 10,
+      "country": "XP",
+      "municipality": "Pattle Island",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "XP-0008",
+      "iata": null,
+      "icao": null,
+      "name": "Bei Dao (North Island) Heliport",
+      "type": "heliport",
+      "lat": 16.96058,
+      "lon": 112.3147,
+      "elevation": null,
+      "country": "XP",
+      "municipality": "North Island",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "XP-0009",
+      "iata": null,
+      "icao": null,
+      "name": "Zhaoshu Dao (Tree Island) Heliport",
+      "type": "heliport",
+      "lat": 16.9782,
+      "lon": 112.2664,
+      "elevation": null,
+      "country": "XP",
+      "municipality": "Tree Island",
+      "scheduledService": "no"
+    }
+  ]
+}

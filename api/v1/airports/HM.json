@@ -1,0 +1,32 @@
+{
+  "generatedFrom": "https://davidmegginson.github.io/ourairports-data/airports.csv",
+  "count": 2,
+  "records": [
+    {
+      "ident": "AU-0178",
+      "iata": null,
+      "icao": null,
+      "name": "Atlas Cove Station Helipad",
+      "type": "heliport",
+      "lat": -53.01885,
+      "lon": 73.39349,
+      "elevation": null,
+      "country": "HM",
+      "municipality": "Atlas Cove Station",
+      "scheduledService": "no"
+    },
+    {
+      "ident": "AU-0179",
+      "iata": null,
+      "icao": null,
+      "name": "Spit Bay Helipad",
+      "type": "heliport",
+      "lat": -53.10732,
+      "lon": 73.72013,
+      "elevation": null,
+      "country": "HM",
+      "municipality": "Spit Bay",
+      "scheduledService": "no"
+    }
+  ]
+}

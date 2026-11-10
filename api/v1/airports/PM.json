@@ -1,0 +1,45 @@
+{
+  "generatedFrom": "https://davidmegginson.github.io/ourairports-data/airports.csv",
+  "count": 3,
+  "records": [
+    {
+      "ident": "LFVM",
+      "iata": "MQC",
+      "icao": "LFVM",
+      "name": "Miquelon Airport",
+      "type": "small_airport",
+      "lat": 47.095501,
+      "lon": -56.380299,
+      "elevation": 10,
+      "country": "PM",
+      "municipality": "Miquelon",
+      "scheduledService": "yes"
+    },
+    {
+      "ident": "LFVP",
+      "iata": "FSP",
+      "icao": "LFVP",
+      "name": "Saint-Pierre Pointe-Blanche Airport",
+      "type": "medium_airport",
+      "lat": 46.762651,
+      "lon": -56.17499,
+      "elevation": 27,
+      "country": "PM",
+      "municipality": "Saint-Pierre",
+      "scheduledService": "yes"
+    },
+    {
+      "ident": "PM-0001",
+      "iata": null,
+      "icao": null,
+      "name": "Saint-Pierre Airport OLD",
+      "type": "closed",
+      "lat": 46.773641,
+      "lon": -56.168157,
+      "elevation": 20,
+      "country": "PM",
+      "municipality": "Saint-Pierre",
+      "scheduledService": "no"
+    }
+  ]
+}
